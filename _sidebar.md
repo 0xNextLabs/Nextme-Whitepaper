@@ -2,7 +2,10 @@
   - [Origin](README.md?id=Origin)
   - [Vision](README.md?id=Vision)
   - [Values](README.md?id=Values)
-  - [Solgan](README.md?id=Solgan)
+
+- Tokenomics
+
+- DAO
 
 - Milestone
   

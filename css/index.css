@@ -8,7 +8,7 @@
 .sidebar > h1::after {
   font-size: 2rem;
   content: "Nextme";
-  margin-left: -1rem;
+  margin: 0.5rem 0 0 -1rem;
 }
 
 .sidebar > h1 img {
