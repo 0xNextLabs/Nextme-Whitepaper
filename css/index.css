@@ -1,0 +1,72 @@
+.sidebar > h1 {
+  display: flex;
+  align-items: center;
+  font-family: "Satisfy";
+  padding-left: 0.3rem;
+}
+
+.sidebar > h1::after {
+  font-size: 2rem;
+  content: "Nextme";
+  margin-left: -1rem;
+}
+
+.sidebar > h1 img {
+  padding: 0 1rem;
+  max-width: 160px;
+}
+
+.sidebar-toggle {
+  padding-top: 15px;
+  backdrop-filter: blur(3px);
+}
+
+.sidebar-toggle span {
+  width: 30px;
+  height: 5px;
+}
+
+section.cover .cover-main {
+  z-index: 0;
+}
+
+.cover-main > h1 {
+  padding-top: 3rem;
+}
+
+.cover-main > h2,
+h3,
+h4 {
+  color: #fff;
+}
+
+.cover-main > h2 {
+  font-size: 3rem;
+  font-family: "Satisfy", sans-serif;
+}
+
+.cover-main > h3 {
+  font-size: 1.8rem;
+  font-family: "Righteous", sans-serif;
+}
+
+.cover-main > h4 {
+  font-size: 1.2rem;
+  margin-bottom: 8%;
+}
+
+.cover-main p a {
+  border-width: 0 !important;
+  background: linear-gradient(90deg, #b1d26f 0.05%, #60e7ce 100.16%);
+}
+
+#docsify-darklight-theme {
+  left: initial;
+  right: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .sidebar-toggle {
+    width: 98%;
+  }
+}
