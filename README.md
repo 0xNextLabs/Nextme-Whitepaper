@@ -3,7 +3,7 @@ A group of web2+3 creators
 
 A group of web2+3 developers and builders
 
-A Decentralized Community Next Labs & Next DAO
+A Decentralized Community Next Labs & Nextme DAO
 
 Let's create our next generation web2+3 social homepage together
 
