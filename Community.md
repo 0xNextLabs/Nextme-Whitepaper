@@ -10,7 +10,7 @@ Discord：to be announced
 ## Contact
 > more information to be released
 
-Website：[nextme.one](//nextme.one)
+Beta：[nextme.one](//nextme.one)
 
 Docs：[docs.nextme.one](//docs.nextme.one)
 

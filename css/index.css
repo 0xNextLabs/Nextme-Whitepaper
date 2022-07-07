@@ -8,7 +8,7 @@
 .sidebar > h1::after {
   font-size: 2rem;
   content: "Nextme";
-  margin: 0.5rem 0 0 -1rem;
+  margin: 0.6rem 0 0 -1rem;
 }
 
 .sidebar > h1 img {
@@ -57,7 +57,10 @@ h4 {
 
 .cover-main p a {
   border-width: 0 !important;
-  background: linear-gradient(90deg, #b1d26f 0.05%, #60e7ce 100.16%);
+  background-image: linear-gradient(90deg, #b1d26f 0.05%, #60e7ce 100.16%);
+}
+.cover-main p a:hover {
+  color: #fff !important;
 }
 
 #docsify-darklight-theme {
