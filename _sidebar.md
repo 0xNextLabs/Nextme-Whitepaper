@@ -7,7 +7,8 @@
   - [Stage](Milestone.md)
 
 - Tokenomics
-  - [Token](Tokenomics.md)
+  - [Live](Tokenomics/Live.md)
+  - [Core](Tokenomics/Core.md)
 
 - Governance
   - [DAO](Governance.md)
