@@ -1,5 +1,6 @@
 # Nextme
-![](https://pbs.twimg.com/profile_banners/1544388229520011264/1657164666/1500x500)
+![](assets/images/cover.jpg)
+
 ## Origin
 A group of web2+3 creators
 
