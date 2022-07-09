@@ -19,5 +19,10 @@
 <iframe width="100%" height="480" src="//jsfiddle.net/NextmeOne/pgn4yvqs/76/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 <iframe width="100%" height="480" src="//jsfiddle.net/NextmeOne/gkrLbxm6/33/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
+<h4>Linear Unlock Cycle</h4>
+
+<iframe width="100%" height="480" src="//jsfiddle.net/NextmeOne/wdp7u6fn/86/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+
 <h4>Liquidity Mechanism</h4>
+
 <iframe width="100%" height="480" src="//jsfiddle.net/NextmeOne/znw4x1k6/83/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
