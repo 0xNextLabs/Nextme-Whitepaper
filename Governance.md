@@ -7,7 +7,7 @@
 
 - In order to precipitate high-quality user groups, let everyone participate in the construction of products and communities, and govern and preach together;
 
-- In order to develop more decentralized development and freedom of freedom, we expect social appearances to decide, rather than platforms or medium -sized economies and Internet manufacturers;
+- For more decentralized development and freedom of rights, what we expect to be socialized should be decided by us, not by platforms or centralized economies and Internet manufacturers;
 
 - In order to incubate and explore more potential and talented creators, Builder, individual or brand, we build this decentralized community to facilitate everyone to communicate and grow. High-frequency and high retention activities such as Web3 Workplace Week to build the next generation of social portals with you.
 
