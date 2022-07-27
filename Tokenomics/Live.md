@@ -18,6 +18,3 @@
 - More application scenarios to be announced;
 
 <p>Remark: All token income belongs to the team community treasury, which is continuously used for community operation and growth, and is regularly destroyed in a certain proportion.</p>
-
-## When Token
-<p>Comprehensive user portraits and product daily activity indicators, such as DAU reaching 20w, will start our Nextme Token IDO and listing plan.</p>
