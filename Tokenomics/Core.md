@@ -16,7 +16,7 @@
 
 > creators and fans, project parties, developers, market makers, primary and secondary investors, early investors and institutions, teams and consultants, etc.
 
-<iframe width="100%" height="480" src="//jsfiddle.net/NextmeOne/pgn4yvqs/76/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe width="100%" height="480" src="//jsfiddle.net/NextmeOne/pgn4yvqs/80/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 <iframe width="100%" height="480" src="//jsfiddle.net/NextmeOne/gkrLbxm6/33/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 <h4>Linear Unlock Cycle</h4>
