@@ -21,7 +21,7 @@
 
 <h4>Linear Unlock Cycle</h4>
 
-<iframe width="100%" height="480" src="//jsfiddle.net/NextmeOne/wdp7u6fn/86/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe width="100%" height="480" src="//jsfiddle.net/NextmeOne/wdp7u6fn/101/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 <h4>Liquidity Mechanism</h4>
 
