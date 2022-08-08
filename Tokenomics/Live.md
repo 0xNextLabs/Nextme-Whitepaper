@@ -17,4 +17,4 @@
 - Developers and organizations can use it to pay for API services;
 - More application scenarios to be announced;
 
-<p>Remark: All token income belongs to the team community treasury, which is continuously used for community operation and growth, and is regularly destroyed in a certain proportion.</p>
+<p>Remark: All token income belongs to the team community treasury, which is continuously used for community operation and growth, and is regularly destroyed in a certain proportion，remaining proportion returns to the treasury.</p>

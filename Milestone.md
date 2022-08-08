@@ -1,10 +1,10 @@
 # Milestone
 
 ## Stage1
-<p>The product cold start plan is implemented, and the accumulation of seed users is not limited to web2+3 creators, web3 builder and communities, web3 developers and organizations, etc.</p>
+<p>Invite early users for the Pre version internal test, not limited to web2+3 creators, web3 project parties and communities, etc., sharing and invitation system in a small range;</p>
 
 ## Stage2
-<p>The beta version is tested, the Release version is released, and it will start to serve certain public user groups. More photographers, designers and other creators, project parties and communities, developers and organizations have joined, and entered a period of rapid growth. Everyone builds here. Own web2+3 social portal and operate own fan membership system;</p>
+<p>The cold start plan of the product is implemented, the beta version is tested, and 20+ communities, 2000+ creators and some project parties are invited to experience and build a social portal homepage, and begin to serve certain core user groups (photographers, designers and other creators, project parties) and communities, organizations) have entered the initial growth period, everyone builds their own web2+3 social portal here, and show is a major behavior;</p>
 
 ## Stage3
-<p>The Nextme DAO community started to operate, such as the web3 recruitment festival (linking recruiters and job seekers, both sides began to build their own Nextme homepage and functions) Maker Song Competition (attracting college and community developers and designers to participate in template construction, get jobs Quantitative proof Next Token incentive) high-frequency AMA Twitter Space activities to attract, incubate, and help artists to better transform and embrace web3, and at the same time, there are more opportunities for new web3 revenue on the road to commercialization;</p>
+<p>The Nextme DAO community gradually began to operate, mainly the re-execution and retention of some cold start plans, and at the same time launched a series of early community token incentive plans. For example, web3 workplace week activities (linking recruiters and job seekers, both parties build their own homepages) web3 maker song competition (attracting college and community photographers and designers to participate in template construction, and get Pow Token incentives) high-frequency AMA Twitter Space activities , to attract, incubate, and help creators show more of their social portals, and help them launch more realisation scenarios in commercialization.</p>
