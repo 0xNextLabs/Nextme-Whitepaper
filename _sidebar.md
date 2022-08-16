@@ -16,3 +16,6 @@
 - Community
   - [Media](Community.md?id=Media)
   - [Contact](Community.md?id=Contact)
+
+- DID
+  - [Next DID](DID/NextDID.md)
