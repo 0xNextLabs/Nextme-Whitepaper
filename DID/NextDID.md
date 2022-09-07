@@ -1,7 +1,7 @@
 # Next DID
 ## Abstract
 Next DID is a Decentralized Identity created by Nextme to the user, the format is as follows:
-> did:next:ceNobbK6Me9F5zwyE3MKY88QZLw
+> `did:next:ceNobbK6Me9F5zwyE3MKY88QZLw`
 
 Its corresponding json structure is as follows:
 ```
