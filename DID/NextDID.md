@@ -45,12 +45,12 @@ Mock version:
         "updated": "2019-10-23T09:14:17.961Z",
         "publicKey": [
             {
-                "id": "did:ccp:3CzQLF3qfFVQ1CjGVzVRZaFXrjAd#key-1",
+                "id": "did:next:3CzQLF3qfFVQ1CjGVzVRZaFXrjAd#key-1",
                 "type": "Secp256k1",
                 "publicKeyHex": "0440b3fa8e848297ff26b04088263101fa87d3541ac48bbc32fe7b77b73246578241236ab6097d4012ac17a514272a54a7b728790e914bbbff431e49d421aa1eef"
             },
             {
-                "id": "did:ccp:3CzQLF3qfFVQ1CjGVzVRZaFXrjAd#key-2",
+                "id": "did:next:3CzQLF3qfFVQ1CjGVzVRZaFXrjAd#key-2",
                 "type": "Secp256k1",
                 "publicKeyHex": "04df4cf82984c9ecd4cf113e24762fb4404c1653df84ac424e4e2985ba7eb4de9249c2609414a24feea7845649299049b4babd6380ee69ef9e91c843931c877e7f"
             }
@@ -63,7 +63,7 @@ Mock version:
         ],
         "proof": {
             "type": "Secp256k1",
-            "creator": "did:ccp:3CzQLF3qfFVQ1CjGVzVRZaFXrjAd#key-1",
+            "creator": "did:next:3CzQLF3qfFVQ1CjGVzVRZaFXrjAd#key-1",
             "signatureValue": "3045022100ff51c2629c9eb5d75d9786506ad45e82a87bf91b991a4b37f6d81ce70984220302201f4aa4f609a7ff96de190db68a25603fc849f1098d3f506098dc79af826b4a67"
         }
     },
