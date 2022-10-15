@@ -14,7 +14,7 @@ Let's create our next generation web2+3 social homepage together
 
 ## Vision
 
-> Create Next Generation Web3 DID Social Gateway & Space
+> Create Next Generation Web3 DID Social Gateway & Space and On-Chain Portrait Infrastructure.
 
 ## Values
 
