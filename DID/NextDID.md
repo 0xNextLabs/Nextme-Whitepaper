@@ -6,9 +6,9 @@ Next DID is a Decentralized Identity created by Nextme to the user, the format i
 for example:
 > `did:next:ceNobbK6Me9F5zwyE3MKY88QZLw`
 
-<method-specific-id> = createHash('sha256').update(<key>).digest('hex')
+`<method-specific-id>` = createHash('sha256').update(<key>).digest('hex')
 
-<key> = user Id, passed from front end
+`<key>` = user Id, passed from front end
 
 Its corresponding response json structure is as follows:
 ```
@@ -41,7 +41,7 @@ Its corresponding response json structure is as follows:
 3. Implement sha256 to Json
 4. Implement the above result again with ripemd160
 5. Implement base58 on the above result
-6. Add did:next: before the above result as the final Next DID
+6. Add `did:next:` before the above result as the final Next DID
 ##### Request
 Mock version:
 ```
@@ -142,8 +142,11 @@ Identity recovery: If the private key of the authority is lost, the public/priva
 User privacy information will be fuzzed for better protection User privacy is not leaked.
 The private key that can prove the attribution of DID only exists on the user's device and will not be known to any third party.
 
-## DID Authentication Flow
-
 ## Uses Cases
 
 ## APIs
+createDID 
+queryDID 
+updateDID 
+deleteDID
+restoreDID
