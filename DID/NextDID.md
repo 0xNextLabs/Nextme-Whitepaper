@@ -1,29 +1,39 @@
 # Next DID
-## Abstract
+## DID Definition
 Next DID is a Decentralized Identity created by Nextme to the user, the format is as follows:
+> `did:next:<method-specific-id>`
+
+for example:
 > `did:next:ceNobbK6Me9F5zwyE3MKY88QZLw`
 
-Its corresponding json structure is as follows:
+<method-specific-id> = createHash('sha256').update(<key>).digest('hex')
+
+<key> = user Id, passed from front end
+
+Its corresponding response json structure is as follows:
 ```
 {
   "@context": "https://nextme.one/did/v1/create",
-  "publicKey": [
+  id: ${did},
+  verificationMethod: [
     {
-      "id": "#keys-1",
-      "type": "Secp256k1",
-      "publicKeyHex": "02b97c30de767f084ce3080168ee293053ba33b235d7116a3263d29f1450936b71"
+      id: `${did}#controller`,
+      type: 'EcdsaSecp256k1RecoveryMethod2020',
+      controller: did,
+      blockchainAccountId: `eip155:1337:${controller}`,
     },
     {
-      "id": "#keys-2",
-      "type": "Secp256k1",
-      "publicKeyHex": "4b4042665b3235a12fb49730ff620fef1c96e9efa5c90119abd2e8acfe856053"
-    }
+      id: `${did}#delegate-4`,
+      type: 'EcdsaSecp256k1RecoveryMethod2020',
+      controller: did,
+      blockchainAccountId: `eip155:1337:${delegate2}`,
+    },
   ],
-  "authentication": ["#key-1"],
-  "recovery": ["#key-2"]
+  authentication: [`${did}#controller`, `${did}#delegate-4`],
+  assertionMethod: [`${did}#controller`, `${did}#delegate-4`],
 }
 ```
-## Next DID
+
 #### DID Creation
 ##### Process
 1. Generate two pairs of public and private keys as master and backup.
@@ -114,7 +124,7 @@ And you'll get the result as below
 ```
 #### DID Update
 It is worth mentioning that old versions of DID document are still stored on the chain due to the natures of the data structure used by blockchain. So this operation is not updating the DID document in place but putting a new version over the existing one.
-#### DID Revoke
+#### DID Restore
 ##### Request
 ```
 {
@@ -124,6 +134,14 @@ It is worth mentioning that old versions of DID document are still stored on the
     "signature": "212w6nedqdm2wdp2dpdkasxkapp12kw12w12w"
 }
 ```
+
+#### DID Security Considerations
+Identity recovery: If the private key of the authority is lost, the public/private key can be reset through the Restore method, but in this case, the previously signed claim will be invalid.
+
+#### DID Privacy considerations
+User privacy information will be fuzzed for better protection User privacy is not leaked.
+The private key that can prove the attribution of DID only exists on the user's device and will not be known to any third party.
+
 ## DID Authentication Flow
 
 ## Uses Cases
