@@ -48,6 +48,8 @@ h4 {
 .cover-main > h3 {
   font-size: 1.8rem;
   font-family: "Righteous", sans-serif;
+  margin: 0 auto;
+  max-width: 50rem;
 }
 
 .cover-main > h4 {
