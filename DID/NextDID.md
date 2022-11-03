@@ -6,6 +6,8 @@ Next DID is a Decentralized Identity created by Nextme to the user, the format i
 for example:
 > `did:next:ceNobbK6Me9F5zwyE3MKY88QZLwceNobbK6Me9F5zwyE3MKY88QZLw`
 
+the key value will be hashed in to a fixed 64-bit did:
+
 `<method-specific-id>` = createHash('sha256').update(`<key>`).digest('hex')
 
 `<key>` = user Id, passed from user
