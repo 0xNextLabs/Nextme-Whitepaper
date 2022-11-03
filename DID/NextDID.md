@@ -49,7 +49,7 @@ Mock version:
     "did": "did:next:3CzQLF3qfFVQ1CjGVzVRZaFXrjAd",
     "document": {
         "@context": "https://nextme.one/did/v1/create",
-        "id": "did:next:3CzQLF3qfFVQ1CjGVzVRZaFXrjAd",
+        "id": "did:next:3CzQLF3qfFVQ1CjGVzVRZaFXrjAd3CzQLF3qfFVQ1CjGVzVRZaFXrjAd",
         "version": 1,
         "created": "2019-10-23T09:14:17.961Z",
         "updated": "2019-10-23T09:14:17.961Z",
@@ -128,18 +128,24 @@ It is worth mentioning that old versions of DID document are still stored on the
 ##### Request
 ```
 {
-    "did": "did:next:cxxxxxxxxxxxxxx",
-    "operation": "delete",
-    "timestamp": 253146316,
-    "signature": "212w6nedqdm2wdp2dpdkasxkapp12kw12w12w"
+  "did": "did:next:cxxxxxxxxxxxxxx",
+  "operation": "delete",
+  "timestamp": 253146316,
+  "signature": "212w6nedqdm2wdp2dpdkasxkapp12kw12w12w"
 }
 ```
 
 #### DID Security Considerations
-Identity recovery: If the private key of the authority is lost, the public/private key can be reset through the Restore method, but in this case, the previously signed claim will be invalid.
+
+1. The hashed did is irreversible, and it is difficult to crack.
+2. Once the private key of the authority is lost, the public/private key can be reset through the Restore method, but in this case, the previously signed claim will be invalid.
+3. The key value of the registered did is unique, and a key can only generate a unique did, so identities cannot be confused or used fraudulently.
 
 #### DID Privacy considerations
-User privacy information will be fuzzed for better protection User privacy is not leaked.
+
+1. The key value will be hashed into a fixed 64-bit did, and irreversible, the original key value is difficult to crack.
+2. The ciphertext encrypted by the public key will be stored in a decentralized database, and only the private key in the user's hand can decrypt the did plaintext information.
+3. User privacy information will be fuzzed for better protection User privacy is not leaked.
 The private key that can prove the attribution of DID only exists on the user's device and will not be known to any third party.
 
 ## Uses Cases
