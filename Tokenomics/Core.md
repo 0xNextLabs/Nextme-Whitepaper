@@ -16,12 +16,12 @@
 
 > creators and fans, project parties, developers, market makers, primary and secondary investors, early investors and institutions, teams and consultants, etc.
 
-<iframe width="100%" height="480" src="//jsfiddle.net/NextmeOne/pgn4yvqs/82/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe width="100%" height="480" src="//jsfiddle.net/NextmeOne/pgn4yvqs/86/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 <iframe width="100%" height="480" src="//jsfiddle.net/NextmeOne/gkrLbxm6/33/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 <h4>Linear Unlock Cycle</h4>
 
-<iframe width="100%" height="480" src="//jsfiddle.net/NextmeOne/wdp7u6fn/102/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe width="100%" height="480" src="//jsfiddle.net/NextmeOne/wdp7u6fn/104/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 <h4>Liquidity Mechanism</h4>
 
