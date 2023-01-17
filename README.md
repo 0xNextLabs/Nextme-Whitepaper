@@ -8,17 +8,17 @@ A group of web2+3 creators
 
 A group of web2+3 developers and builders
 
-A Decentralized Community Next Labs & Nextme DAO
+A Decentralized Community Next Labs
 
 Let's create our next generation web2+3 social homepage together
 
 ## Vision
 
-> Create Next Generation Web3 DID Social Gateway & Space and On-Chain Portrait Infrastructure.
+> Create Next Generation Web3 DID Social Gateway & Space and On-Chain Portrait Protocol.
 
 ## Values
 
-> Connect Your Web2+3 Ids, Links, Works, Data, Contracts, etc.
+> Committed to becoming the most beautiful Web3 social portal and UGC square, allowing social data and portrait value to be distributed to all active individuals in a decentralized protocol.
 
 <p>We mainly help web2+3 creators, web3 builders and communities, web3 investors/developers/organizations and other user groups to open up and aggregate account IDs under many App application systems, and integrate on-chain and off-chain data into Personalized application in a centralized way.</p>
 <p>Based on a set of Nextme DID to connect users' web2+3 social IDs, works, assets, contracts, etc. select and personalize their homepage from several vertical career templates, not limited to social media business cards, NFT/DAO/Club and other tokens Mint/AirDrop/Poap aggregated business page, community community Member Pass center, etc.</p>
