@@ -14,6 +14,8 @@ Instagram
 
 Discord
 
+[https://discord.gg/b62HGWXeRv](//discord.gg/b62HGWXeRv)
+
 to be announced
 
 ## Contact
