@@ -13,7 +13,8 @@
 
 .sidebar > h1 img {
   padding: 0 1rem;
-  max-width: 160px;
+  margin-top: -1rem;
+  max-width: 120px;
 }
 
 .sidebar-toggle {
