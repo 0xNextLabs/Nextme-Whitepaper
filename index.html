@@ -1,59 +1,90 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Nextme">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <meta name="msapplication-TileColor" content="#24c789">
-  <meta name="theme-color" content="#fff">
-  <link rel="apple-touch-icon" sizes="180x180" href="//nextme.one/assets/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="//nextme.one/assets/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="//nextme.one/assets/favicon-16x16.png">
-  <link rel="manifest" href="//nextme.one/assets/site.webmanifest">
-  <link rel="shortcut icon" href="//nextme.one/assets/favicon.ico">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" type="text/css" title="docsify-darklight-theme" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css" />
-  <link rel="stylesheet" href="//unpkg.com/@markbattistella/docsify-charty@latest/dist/docsify-charty.min.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Courgette&family=Righteous&family=Satisfy&display=swap" />
-  <link rel="stylesheet" type="text/css" href="css/index.css" />
-</head>
-<body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      name: 'Nextme',
-      logo: 'assets/images/logo.png',
-      coverpage: true,
-      auto2top: true,
-      themeColor: '#24c789',
-      loadSidebar: true,
-      executeScript: true,
-      alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
-      },
-      darklightTheme: {
-        siteFont : 'PT Sans | Source Sans Pro',
-        codeFontFamily : 'Roboto Mono, Monaco, courier, monospace',
-        light: {
-          coverBackground : 'linear-gradient(to bottom right, #009efd 0%, #7028e4 100%)',
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Nextme" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <meta name="msapplication-TileColor" content="#24c789" />
+    <meta name="theme-color" content="#fff" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="//nextme.one/assets/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="//nextme.one/assets/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="//nextme.one/assets/favicon-16x16.png"
+    />
+    <link rel="manifest" href="//nextme.one/assets/site.webmanifest" />
+    <link rel="shortcut icon" href="//nextme.one/assets/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      title="docsify-darklight-theme"
+      href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="//unpkg.com/@markbattistella/docsify-charty@latest/dist/docsify-charty.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Courgette&family=Righteous&family=Satisfy&display=swap"
+    />
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
+  </head>
+  <body>
+    <div id="app"></div>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      window.$docsify = {
+        name: "Nextme",
+        logo: "assets/images/logo.png",
+        coverpage: true,
+        auto2top: true,
+        themeColor: "#24c789",
+        loadSidebar: true,
+        executeScript: true,
+        alias: {
+          "/.*/_sidebar.md": "/_sidebar.md",
         },
-        dark: {
-          coverBackground: 'linear-gradient(to bottom right, #7873f5 0%, #ec77ab 100%)'
+        darklightTheme: {
+          siteFont: "PT Sans | Source Sans Pro",
+          codeFontFamily: "Roboto Mono, Monaco, courier, monospace",
+          light: {
+            coverBackground:
+              "linear-gradient(to bottom right, #009efd 0%, #7028e4 100%)",
+          },
+          dark: {
+            coverBackground:
+              "linear-gradient(to bottom right, #7873f5 0%, #ec77ab 100%)",
+          },
         },
-      },
-      customPageTitle: {
-        seprator: '', 
-        prefix: 'Nextme Whitepaper ',
-      }
-    }
-  </script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/@sujaykumarh/docsify-plugin-title@1.x/dist/plugin.min.js"></script>
-</body>
+        customPageTitle: {
+          seprator: "",
+          prefix: "Nextme Whitepaper ",
+        },
+      };
+    </script>
+    <!-- Docsify v4 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/@sujaykumarh/docsify-plugin-title@1.x/dist/plugin.min.js"></script>
+  </body>
 </html>
