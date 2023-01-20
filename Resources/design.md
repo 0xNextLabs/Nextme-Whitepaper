@@ -11,16 +11,17 @@
 # Branding Guidelines
 
 <p>You may use the Nextme name and logo in your website or app as long as you adhere to the Nextme branding guidelines.</p>
-<ul>
+
+<ul class='pb-8'>
   <li>Do not alter the Nextme logo and the logo is intended to be used as provided.</li>
   <li>Do not combine Nextme logo with other images without consent.</li>
   <li>Do not use the Nextme brand in any way that implies a relationship, affiliation, or endorsement. For example, "we partner with Nextme."</li>
   <li>Do reference Nextme as follow:</li>
   <li>
-    <ul>
-      <ol>"Powered by Nextme"</ol>
-      <ol>"Data provided by Nextme"</ol>
-      <ol>"Source: Nextme"</ol>
+    <ul class='list-disc'>
+      <li>"Powered by Nextme"</li>
+      <li>"Data provided by Nextme"</li>
+      <li>"Source: Nextme"</li>
     </ul>
   </li>
   <li>Do not use the Nextme brand in conjunction with any illegal and unlawful activity, promotion, and product.</li>
@@ -32,12 +33,16 @@
 
 <ul class='flex pt-2'>
   <li>
-    <h6 class='pb-4'>Light Mode</h6>
-    <img class='rounded-md' src='https://nextme.one/images/logo.png' />
+    <h6 class='pb-4'>Light Mode
+      <a class='ml-1' href='assets/images/logo/logo.png' download='Nextme Logo_Light'>download</a>
+    </h6>
+    <img class='rounded-md' src='assets/images/logo/logo.png' />
   </li>
   <li>
-    <h6 class='pb-4'>Dark Mode</h6>
-    <img class='rounded-md' src='https://nextme.one/images/logo_bk.png' />
+    <h6 class='pb-4'>Dark Mode
+     <a class='ml-1' href='assets/images/logo/logo_dark.png' download='Nextme Logo_Dark'>download</a>
+    </h6>
+    <img class='rounded-md' src='assets/images/logo/logo_dark.png' />
   </li>
 </ul>
 
@@ -47,11 +52,15 @@
 
 <ul class='flex pt-2'>
   <li>
-    <h6 class='pb-4'>Light Mode</h6>
+    <h6 class='pb-4'>Light Mode
+      <a class='ml-1' href='assets/images/logo/logo_pro.svg' download='Nextme Logo_Pro_Light'>download</a>
+    </h6>
     <img class='rounded-md bg-black' src='assets/images/logo/logo_pro.svg' />
   </li>
   <li>
-    <h6 class='pb-4'>Dark Mode</h6>
+    <h6 class='pb-4'>Dark Mode
+      <a class='ml-1' href='assets/images/logo/logo_pro_dark.svg' download='Nextme Logo_Pro_Dark'>download</a>
+    </h6>
     <img class='rounded-md' src='assets/images/logo/logo_pro_dark.svg' />
   </li>
 </ul>
@@ -60,11 +69,19 @@
 
 <ul class='flex pt-2'>
   <li>
-    <h6 class='pb-4'>Light Mode</h6>
+    <h6 class='pb-4'>Light Mode
+      <a class='ml-1' href='assets/images/logo/logo_pro.png' download='Nextme Logo_Pro_Light'>download</a>
+    </h6>
     <img class='rounded-md bg-black' src='assets/images/logo/logo_pro.png' />
   </li>
   <li>
-    <h6 class='pb-4'>Dark Mode</h6>
+    <h6 class='pb-4'>Dark Mode
+      <a class='ml-1' href='assets/images/logo/logo_pro_dark.png' download='Nextme Logo_Pro_Dark'>download</a>
+    </h6>
     <img class='rounded-md' src='assets/images/logo/logo_pro_dark.png' />
   </li>
 </ul>
+
+<footer class='pt-20 text-center'>
+<a class='bg-black p-4 px-8 rounded-3xl' href='assets/images/logo.zip' download='Nextme Logo'>Download Brand Package</a>
+</footer>
