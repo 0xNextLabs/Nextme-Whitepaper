@@ -12,17 +12,19 @@
 
 <p>You may use the Nextme name and logo in your website or app as long as you adhere to the Nextme branding guidelines.</p>
 <ul>
-
-<li>Do not alter the Nextme logo and the logo is intended to be used as provided.</li>
-<li>Do not combine Nextme logo with other images without consent.</li>
-<li>Do not use the Nextme brand in any way that implies a relationship, affiliation, or endorsement. For example, "we partner with Nextme."</li>
-<li>Do reference Nextme as follow:</li>
-<ul>
-<ol>"Powered by Nextme"</ol>
-<ol>"Data provided by Nextme"</ol>
-<ol>"Source: Nextme"</ol>
+  <li>Do not alter the Nextme logo and the logo is intended to be used as provided.</li>
+  <li>Do not combine Nextme logo with other images without consent.</li>
+  <li>Do not use the Nextme brand in any way that implies a relationship, affiliation, or endorsement. For example, "we partner with Nextme."</li>
+  <li>Do reference Nextme as follow:</li>
+  <li>
+    <ul>
+      <ol>"Powered by Nextme"</ol>
+      <ol>"Data provided by Nextme"</ol>
+      <ol>"Source: Nextme"</ol>
+    </ul>
+  </li>
+  <li>Do not use the Nextme brand in conjunction with any illegal and unlawful activity, promotion, and product.</li>
 </ul>
-<li>Do not use the Nextme brand in conjunction with any illegal and unlawful activity, promotion, and product.</li></ul>
 
 # Downloads
 
