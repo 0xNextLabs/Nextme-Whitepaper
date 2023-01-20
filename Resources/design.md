@@ -82,6 +82,6 @@
   </li>
 </ul>
 
-<footer class='pt-20 text-center'>
+<footer class='pt-20 pb-10 text-center'>
 <a class='bg-black p-4 px-8 rounded-3xl' href='assets/images/logo.zip' download='Nextme Logo'>Download Brand Package</a>
 </footer>
