@@ -2,7 +2,7 @@
   <a href='//nextme.one'><img src="assets/images/logo/logo_pro.svg" /></a>
 </h2>
 
-<h3>Create Next Generation Web3 DID Social Gateway & Space and On-Chain Portrait Protocol</h3>
+<h3>Create Next Generation Web3 DID Social Gateway and Space Protocol</h3>
 <h4>Connect Your Web2+3 Ids, Links, Works, Data, Contracts, etc.</h4>
 
 [Get Started](README.md)

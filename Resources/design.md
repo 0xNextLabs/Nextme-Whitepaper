@@ -6,7 +6,7 @@
 
 # Solgan
 
-<strong>Create Next Generation Web3 DID Social Gateway & Space and On-Chain Portrait Protocol.</strong>
+<strong>Create Next Generation Web3 DID Social Gateway and Space Protocol.</strong>
 
 # Branding Guidelines
 
