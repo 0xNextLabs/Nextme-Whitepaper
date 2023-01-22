@@ -1,4 +1,4 @@
-# Brand
+# Brands
 
 <strong>Nextme</strong>
 
@@ -83,5 +83,5 @@
 </ul>
 
 <footer class='pt-20 pb-10 text-center'>
-<a class='bg-black p-4 px-8 rounded-3xl' href='assets/images/logo.zip' download='Nextme Logo'>Download Brand Package</a>
+<a class='bg-black p-4 px-8 rounded-full' href='assets/images/logo.zip' download='Nextme Logo'>Download Brand Package</a>
 </footer>
