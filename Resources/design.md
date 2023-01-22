@@ -31,7 +31,9 @@
 
 ### Soul Version
 
-<ul class='flex pt-2'>
+> PNG Format
+
+<ul class='flex sm:gap-x-8'>
   <li>
     <h6 class='pb-4'>Light Mode
       <a class='ml-1' href='assets/images/logo/logo.png' download='Nextme Logo_Light'>download</a>
@@ -50,7 +52,7 @@
 
 > Svg Format
 
-<ul class='flex pt-2'>
+<ul class='flex sm:gap-x-8'>
   <li>
     <h6 class='pb-4'>Light Mode
       <a class='ml-1' href='assets/images/logo/logo_pro.svg' download='Nextme Logo_Pro_Light'>download</a>
@@ -61,13 +63,13 @@
     <h6 class='pb-4'>Dark Mode
       <a class='ml-1' href='assets/images/logo/logo_pro_dark.svg' download='Nextme Logo_Pro_Dark'>download</a>
     </h6>
-    <img class='rounded-md' src='assets/images/logo/logo_pro_dark.svg' />
+    <img class='rounded-md bg-white' src='assets/images/logo/logo_pro_dark.svg' />
   </li>
 </ul>
 
 > PNG Format
 
-<ul class='flex pt-2'>
+<ul class='flex sm:gap-x-8'>
   <li>
     <h6 class='pb-4'>Light Mode
       <a class='ml-1' href='assets/images/logo/logo_pro.png' download='Nextme Logo_Pro_Light'>download</a>
@@ -78,7 +80,7 @@
     <h6 class='pb-4'>Dark Mode
       <a class='ml-1' href='assets/images/logo/logo_pro_dark.png' download='Nextme Logo_Pro_Dark'>download</a>
     </h6>
-    <img class='rounded-md' src='assets/images/logo/logo_pro_dark.png' />
+    <img class='rounded-md bg-white' src='assets/images/logo/logo_pro_dark.png' />
   </li>
 </ul>
 
