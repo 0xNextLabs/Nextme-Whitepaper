@@ -14,7 +14,7 @@ Instagram
 
 Discord
 
-[https://discord.gg/b62HGWXeRv](//discord.gg/b62HGWXeRv)
+[https://discord.gg/5mK3DyUsYh](//discord.gg/5mK3DyUsYh)
 
 ## Contact
 
