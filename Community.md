@@ -16,6 +16,10 @@ Discord
 
 [https://discord.gg/5mK3DyUsYh](//discord.gg/5mK3DyUsYh)
 
+YouTube
+
+[https://youtube.com/@NextmeOne](//youtube.com/@NextmeOne)
+
 ## Contact
 
 > more information to be released
