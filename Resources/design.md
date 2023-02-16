@@ -6,7 +6,7 @@
 
 # Solgan
 
-<strong>Create Next Generation Web3 DID Social Gateway and Space Protocol.</strong>
+<strong>The most Rich & Beautiful Web3 Social Portal and Space Protocol.</strong>
 
 # Branding Guidelines
 

@@ -14,7 +14,7 @@ Let's create our next generation web2+3 social homepage together
 
 ## Vision
 
-> Create Next Generation Web3 DID Social Gateway and Space Protocol.
+> The most Rich & Beautiful Web3 Social Portal and Space Protocol.
 
 ## Values
 
