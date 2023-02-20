@@ -14,7 +14,7 @@ Instagram
 
 Discord
 
-[https://discord.gg/5mK3DyUsYh](//discord.gg/5mK3DyUsYh)
+[https://discord.gg/mxTew3aerd](//discord.gg/mxTew3aerd)
 
 YouTube
 
