@@ -1,6 +1,6 @@
 # Nextme
 
-![](assets/images/cover.jpg)
+![](assets/images/banner/Brand_Banner_02.jpg)
 
 ## Origin
 
