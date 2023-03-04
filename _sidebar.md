@@ -14,15 +14,17 @@
   - [Core](Tokenomics/Core.md)
 
 - Governance
-  - [DAO](Governance.md)
-- Community
 
-  - [Media](Community.md?id=Media)
-  - [Contact](Community.md?id=Contact)
+  - [DAO](Governance.md)
 
 - DID
 
   - [Next DID](DID/NextDID.md)
+
+- Community
+
+  - [Media](Community.md?id=Media)
+  - [Contact](Community.md?id=Contact)
 
 - Resources
   - [Brand Assets](Resources/design.md)
