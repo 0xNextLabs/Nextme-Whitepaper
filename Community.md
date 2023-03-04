@@ -32,7 +32,7 @@ Docs
 
 [https://docs.nextme.one](//docs.nextme.one)
 
-Email（BD & Market）
+Email（BD & Marketing）
 
 [contact@nextme.one](mailto:contact@nextme.one)
 
