@@ -92,9 +92,7 @@
 
 ## Banner
 
-```Application Scenario
-Mostly used for Twitter or daily publicity poster materials
-```
+!>Mostly used for Twitter or daily publicity poster materials
 
 > Festive Version
 
