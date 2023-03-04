@@ -26,3 +26,4 @@
 
 - Resources
   - [Brand Assets](Resources/design.md)
+  - [Guidebook](Resources/guidebook.md)
