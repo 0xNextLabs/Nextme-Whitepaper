@@ -32,9 +32,13 @@ Docs
 
 [https://docs.nextme.one](//docs.nextme.one)
 
-Email（BD & Marketing）
+BD & Marketing
 
 [contact@nextme.one](mailto:contact@nextme.one)
+
+Feedback & Support
+
+[support@nextme.one](mailto:support@nextme.one)
 
 Join Us
 
