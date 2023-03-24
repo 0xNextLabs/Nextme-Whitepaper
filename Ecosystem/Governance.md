@@ -4,7 +4,7 @@
 
 > A centralized community for social portals such as creators, project parties, investors and other services.
 
-<img class='rounded-lg' src='https://pbs.twimg.com/media/Fr9eL8ZaUAApXFJ?format=jpg&name=4096x4096' />
+<img class='rounded-lg' src='https://cdn.nextme.one/user/37327eb3-b8b8-48d6-91a7-68fd85e1bd25/1679635345790.png' />
 
 ### Why DAO
 
