@@ -13,9 +13,10 @@
   - [Live](Tokenomics/Live.md)
   - [Core](Tokenomics/Core.md)
 
-- Governance
+- Ecosystem
 
-  - [DAO](Governance.md)
+  - [Names](Ecosystem/NameService.md)
+  - [Governance](Ecosystem/Governance.md)
 
 - DID
 

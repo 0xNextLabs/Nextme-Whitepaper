@@ -20,17 +20,25 @@ YouTube
 
 [https://youtube.com/@NextmeOne](//youtube.com/@NextmeOne)
 
+Product Hunt
+
+[https://producthunt.com/posts/nextme-2](//producthunt.com/posts/nextme-2)
+
 ## Contact
 
 > more information to be released
 
-Master
+Official Website
 
 [https://nextme.one](//nextme.one)
 
 Docs
 
 [https://docs.nextme.one](//docs.nextme.one)
+
+Official Portal
+
+[https://nextme.one/nextme.eth](//nextme.one/nextme.eth)
 
 BD & Marketing
 

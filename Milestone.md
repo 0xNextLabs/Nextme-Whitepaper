@@ -1,5 +1,7 @@
 # Milestone
 
+<img class='rounded-lg' src='https://ph-files.imgix.net/76ccae54-5df9-47e9-9e3d-0cd65fe5b27a.png' />
+
 ## Stage1
 
 <p>V1 builds a social portal: Committed to becoming the most beautiful Web3 social portal, based on DID SBT to connect more intimate social scenes, provide dozens of sets of exquisite templates, quickly generate personalized for creators, project brands and Holders, organizations and communities, etc. Social home page (Landing Page), recruitment page, resume, NFT Mint/Badge Claim page, etc;</p>

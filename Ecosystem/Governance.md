@@ -1,7 +1,10 @@
 # Governance
 
 ## Nextme DAO
+
 > A centralized community for social portals such as creators, project parties, investors and other services.
+
+<img class='rounded-lg' src='https://pbs.twimg.com/media/Fr9eL8ZaUAApXFJ?format=jpg&name=4096x4096' />
 
 ### Why DAO
 
@@ -14,12 +17,15 @@
 ### What DAO
 
 !> Deliven to become the next -generation Web2+3 creator and builders's social portal and chain gold mine.
+
 #### Keywords
+
 - Decentralized portal
 - Reputation system
 - Portrait protocol infrastructure
 
 #### Scenes
+
 - web2+3 social business card
 - Recruitment homepage or resume
 - NFT, DAO, token and member center
