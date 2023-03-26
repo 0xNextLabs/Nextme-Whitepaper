@@ -110,8 +110,6 @@ Chanel
 Chase
 Chevrolet
 Chile
-China
-ChinaGovernment
 Chopard
 ChowTaiFook
 Citi
@@ -236,7 +234,6 @@ Longchamp
 Longines
 Lululemon
 Luxembourg
-MAOZEDONG
 Macedonia
 Madagascar
 Malawi
@@ -415,7 +412,6 @@ WENJIABAO
 Walmart
 WaltDisney
 WellsFargo
-XIJINPING
 XMTP
 XiaoPeng
 Yemen
