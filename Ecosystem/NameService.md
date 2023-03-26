@@ -76,6 +76,7 @@ Benin
 Bentley
 Beosin
 Bhutan
+Biden
 Blizzard
 BlockSec
 Blockchain
@@ -110,6 +111,7 @@ Chase
 Chevrolet
 Chile
 China
+ChinaGovernment
 Chopard
 ChowTaiFook
 Citi
@@ -163,6 +165,7 @@ Georgia
 Germany
 Ghana
 Google
+Government
 Greece
 Grenada
 Guatemala
@@ -170,8 +173,10 @@ Guinea
 Guinea-Bissau
 Guyana
 HSBC
+HUJINTAO
 Haiti
 Halborn
+Hepburn
 Hitachi
 Honda
 Honduras
@@ -194,6 +199,7 @@ Ireland
 Isetan
 Israel
 Italy
+JIANGZEMIN
 Jaguar
 Jamaica
 Japan
@@ -208,6 +214,8 @@ Kiribati
 Kosovo
 Kuwait
 Kyrgyzstan
+LIKEQIANG
+LIUSHAOQI
 Lacoste
 Lamborghini
 LandRover
@@ -228,6 +236,7 @@ Longchamp
 Longines
 Lululemon
 Luxembourg
+MAOZEDONG
 Macedonia
 Madagascar
 Malawi
@@ -278,6 +287,7 @@ Nintendo
 Nordstrom
 NorthKorea
 Norway
+Obama
 Oman
 Omega
 Oracle
@@ -374,6 +384,7 @@ Tonga
 Toyota
 TrinidadandTobago
 TripAdvisor
+Trump
 Tunisia
 Turkey
 Turkmenistan
@@ -400,12 +411,15 @@ Vietnam
 Vmware
 Volkswagen
 Volvo
+WENJIABAO
 Walmart
 WaltDisney
 WellsFargo
+XIJINPING
 XMTP
 XiaoPeng
 Yemen
+ZHOUENLAI
 Zalando
 Zambia
 Zimbabwe
@@ -858,6 +872,7 @@ elarmasecreta
 element
 elementmarket
 eliantcapital
+elonmask
 elonmusk
 emir
 english
