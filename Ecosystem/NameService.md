@@ -358,6 +358,8 @@ Sony
 SouthAfrica
 SouthKorea
 SouthSudan
+SpaceID
+SpaceIDProtocol
 Spain
 SriLanka
 SteveMadden
@@ -1697,7 +1699,6 @@ sorare
 sourcecred
 soybienmamon
 space
-spaceid
 spawny
 spec
 splinterlands
@@ -1923,7 +1924,6 @@ zilliqa
 zillow
 ziopat
 zksea
-zkspace
 zkspace
 zksquare
 zkswap
