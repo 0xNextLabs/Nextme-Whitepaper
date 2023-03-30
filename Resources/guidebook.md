@@ -5,7 +5,7 @@
   <img class='rounded-lg md:hidden' src='assets/images/banner/guidebook_mobile.jpg' />
 </header>
 
-!> 🪜
+!> 🪜 VPN Service
 
 > English Version
 

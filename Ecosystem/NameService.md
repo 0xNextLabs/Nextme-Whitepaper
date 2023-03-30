@@ -4,7 +4,9 @@
 
 <img class='rounded-lg' src='https://ph-files.imgix.net/8cbe4b58-2762-4f78-bbc4-524f26f3d893.jpeg' />
 
-!> The following are some of the brand or celebrity logos we reserved during the public beta, which are still being updated dynamically before the contract is deployed. Illegal pre-registration is not recommended during the test to avoid related legal disputes.
+!> The following are some of the brand or celebrity logos we reserved during the public beta, which are still being updated dynamically before the mainnet contract is deployed. Illegal pre-registration is not recommended during the test to avoid related legal disputes.
+
+> If some handles are recycled or preempted, please submit this form or contact our official staff, we will verify your official information and protect it in time. https://forms.gle/nYFHkqSTuMsp1Dgh7
 
 ```
 0xhaze
@@ -1722,6 +1724,7 @@ storage
 subway
 sudoswap
 sui
+suiswap
 sunflowerland
 sunswap
 supducks
