@@ -77,6 +77,7 @@ Bentley
 Beosin
 Bhutan
 Biden
+BitShibaToken
 Blizzard
 BlockSec
 Blockchain
@@ -337,6 +338,9 @@ Secure3
 Senegal
 Serbia
 Seychelles
+Shiba
+ShibaToken
+Shibtoken
 SierraLeone
 Singapore
 Sisley
@@ -376,6 +380,7 @@ TheNorthFace
 Timor-Leste
 Tissot
 Togo
+TokenPocket
 TomFord
 TommyHilfiger
 Tonga
@@ -1786,7 +1791,6 @@ tnutty
 toastpunk
 tobbykitty
 token
-tokenpocket
 tommyk
 tomwolfsson
 ton
