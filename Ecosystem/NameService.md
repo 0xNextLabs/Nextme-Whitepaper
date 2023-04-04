@@ -34,6 +34,7 @@
 5degrees
 6block
 7eleven
+7upDAO
 983
 985
 AMD
@@ -62,6 +63,7 @@ Auchan
 Audi
 Australia
 Austria
+AvatarDAO
 Azerbaijan
 BMW
 BYD
@@ -128,6 +130,7 @@ Cuba
 Cyprus
 CzechRepublic
 DAO
+DAOrayaki
 Dell
 DemocraticRepublicoftheCongo
 Denmark
@@ -248,6 +251,7 @@ ManoloBlahnik
 Marca
 MarshallIslands
 Maserati
+MaskNetwork
 Mauritania
 Mauritius
 MaxMara
@@ -263,6 +267,7 @@ Micronesia
 Microsoft
 Mihoyo
 Moldova
+MoleDAO
 Monaco
 Moncler
 Mongolia
@@ -384,6 +389,7 @@ TheNorthFace
 Timor-Leste
 Tissot
 Togo
+TokenDance
 TokenPocket
 TomFord
 TommyHilfiger
