@@ -258,6 +258,7 @@ Mauritius
 MaxMara
 Maybach
 Mazda
+McDonald
 McDonalds
 Mclaren
 MercedesBenz
@@ -1402,8 +1403,6 @@ maryannechisholm
 masn
 mathwallet
 mattsteffanina
-mcdonald
-mcdonalds
 mdex
 mdv
 media
