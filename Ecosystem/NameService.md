@@ -66,6 +66,7 @@ Austria
 AvatarDAO
 Azerbaijan
 BMW
+BSCDaily
 BYD
 Bahamas
 Bahrain
@@ -115,6 +116,7 @@ Chanel
 Chase
 Chevrolet
 Chile
+Chinese
 Chopard
 ChowTaiFook
 Citi
@@ -296,6 +298,8 @@ Nintendo
 Nordstrom
 NorthKorea
 Norway
+Notification
+Notifications
 Obama
 Oman
 Omega
@@ -320,12 +324,14 @@ Porsche
 Portfolio
 Portugal
 Procter
+Profile
 PudgyPenguins
 Qatar
 Qualcomm
 RalphLauren
 RayBan
 Redefine
+Reels
 Renault
 RepublicoftheCongo
 Rockstar
@@ -1413,6 +1419,8 @@ meebits
 mekaverse
 mento
 mepai
+message
+messages
 metacryptopad
 metamask
 metapixel
@@ -1671,6 +1679,7 @@ sanyi
 sassal
 scroll
 seanelliottoc
+search
 seedao
 segmentfault
 semisand
