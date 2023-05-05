@@ -63,7 +63,6 @@ Auchan
 Audi
 Australia
 Austria
-AvatarDAO
 Azerbaijan
 BMW
 BSCDaily
@@ -147,6 +146,7 @@ Egypt
 ElSalvador
 ElectronicArts
 ElieSaab
+Entrance
 EquatorialGuinea
 Eritrea
 Estonia
@@ -196,6 +196,7 @@ IOSG
 IOSGVentures
 IWCSchaffhausen
 Iceland
+Identity
 Ikea
 India
 Indonesia
@@ -480,7 +481,6 @@ alltopic
 alpaca
 alphawallet
 alrawenet
-alrawenet
 altimet
 amayan
 amayanclub
@@ -566,7 +566,6 @@ balldrainer
 balmain
 bancor
 bank
-bank
 bankless
 banksea
 baronvonhustle
@@ -600,7 +599,6 @@ bigtime
 bilibili
 billytheape
 binance
-binance
 binancebcf
 binancebridge
 binancechain
@@ -632,7 +630,6 @@ blockvision
 bloomberg
 bluetick
 blueyard
-blur
 blur
 bmf
 bnb
@@ -675,7 +672,6 @@ capital
 capitalone
 capsulehouse
 captaintrippy
-cardano
 cardano
 carlosgil
 carsonturner
@@ -724,7 +720,6 @@ coinfund
 coingecko
 coinlist
 coinmarketcap
-coinmarketcap
 coinquer
 cointelegraph
 cointime
@@ -762,7 +757,6 @@ cryptomammoth
 cryptonft
 cryptonwo
 cryptopucks
-cryptopunks
 cryptorabbits
 cryptosimeji
 cryptoskulls
@@ -775,7 +769,6 @@ cvbelieve
 cvs
 cyber_hokie
 cybercongress
-cyberconnect
 cyberconnect
 cybergibbons
 cyberkongz
@@ -800,13 +793,10 @@ daofi
 daosquare
 daostack
 dapp
-dapp
 dapp_boi
 dapp_com
 dapperlabs
 dapplion
-dappradar
-dappradar
 dappradar
 dapptools
 darinbrooks
@@ -816,13 +806,11 @@ dcinvestor
 deadfellaz
 deansteiner
 debank
-debank
 debridge
 decrypt
 deepak
 deezy
 defi_dad
-defialliance
 defialliance
 defiancecapital
 defiantnews
@@ -840,14 +828,12 @@ define
 definovato
 defirate
 defisaver
-defisaver
 defisnap
 deribit
 deso
 developerdao
 devilsnarefizz
 dexfowler
-dexscreener
 dexscreener
 dfarmer
 dfinzer
@@ -859,7 +845,6 @@ discord
 djohnson
 djsamhouse
 dmarket
-dodo
 dodo
 dog
 doge
@@ -880,7 +865,6 @@ drakebell
 drmalachi
 drmoose
 duke.mantle
-dune
 dune
 dunkindonuts
 duocrypto
@@ -1032,7 +1016,6 @@ franalations
 francium
 franklucas
 frax
-frax
 fredymontero
 freewallet
 ftchina
@@ -1042,6 +1025,7 @@ fund
 fund
 funding
 fuserleer
+future
 fwb
 fyki
 g-starraw
@@ -1049,7 +1033,6 @@ gaby
 gainsassociates
 galaxy
 galaxybtc
-galaxydigital
 galaxydigital
 galaxyeggs
 galaxyinteractive
@@ -1318,7 +1301,6 @@ killthebuzz
 kimberlybryant
 kingbrush
 kingdata
-kingdata
 kingolu
 kingrc
 kinoshitay
@@ -1377,7 +1359,6 @@ lizzy
 llama
 loewe
 lofter
-looksrare
 looksrare
 loomx
 loopring
@@ -1615,7 +1596,6 @@ qtdegen
 qtum
 quarry
 quest3
-quest3
 quickswap
 quigley
 rabbitcapital
@@ -1695,7 +1675,6 @@ shaycarl
 shein
 shelbyparis
 shopee
-showme
 showme
 showtime
 siblings
@@ -1803,7 +1782,6 @@ theturk
 thomas
 thorchain
 threadguy
-thuancapital
 thuancapital
 tieba
 tiffany

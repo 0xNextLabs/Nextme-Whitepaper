@@ -14,7 +14,7 @@ Let's create our next generation web2+3 social homepage together
 
 ## Vision
 
-> The most Rich & Beautiful Web3 Social Portal and Relation Protocol.
+> The most Powerful & Beautiful Web3 Social Portal and Relation Protocol.
 
 ## Values
 

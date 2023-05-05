@@ -6,7 +6,7 @@
 
 # Solgan
 
-<strong>The most Rich & Beautiful Web3 Social Portal and Relation Protocol.</strong>
+<strong>The most Powerful & Beautiful Web3 Social Portal and Relation Protocol.</strong>
 
 # Branding Guidelines
 
