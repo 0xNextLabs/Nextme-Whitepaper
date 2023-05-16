@@ -187,6 +187,7 @@ Hepburn
 Hitachi
 Honda
 Honduras
+HongKong
 Huawei
 Hummer
 Hungary
@@ -1616,6 +1617,7 @@ reactjs
 reacttx
 read2n
 readon
+realMaskNetwork
 realt
 reddit
 redis
@@ -1848,6 +1850,7 @@ vikinglord
 vincentyu
 vires
 vitalik
+vitaliketh
 voltura
 vondoom
 vora
