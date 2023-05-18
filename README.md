@@ -6,7 +6,7 @@
 
 > Nextme is committed to bringing data and social to life，building a rich Web3 social traffic and distribution portal, aiming to become a social portal and user-generated content (UGC) dating community driven by decentralized relationship protocols.
 
-## Vision
+## Mission
 
 > The most Powerful & Beautiful Web3 Social Portal and Relation Protocol.
 

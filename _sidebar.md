@@ -1,7 +1,7 @@
 - Brand
 
   - [Origin](README.md?id=Origin)
-  - [Vision](README.md?id=Vision)
+  - [Mission](README.md?id=Mission)
   - [Values](README.md?id=Values)
 
 - Milestone
