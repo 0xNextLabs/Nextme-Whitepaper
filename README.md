@@ -10,7 +10,7 @@
 
 > The most Powerful & Beautiful Web3 Social Portal and Relation Protocol.
 
-## Values
+## Goal
 
 > Committed to becoming the most beautiful Web3 social portal and relation protocol, allowing social data and portrait value to be distributed to all active individuals in a decentralized protocol.
 

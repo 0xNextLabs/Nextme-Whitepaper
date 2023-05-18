@@ -2,7 +2,7 @@
 
   - [Origin](README.md?id=Origin)
   - [Mission](README.md?id=Mission)
-  - [Values](README.md?id=Values)
+  - [Goal](README.md?id=Goal)
 
 - Milestone
 
