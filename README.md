@@ -12,7 +12,7 @@
 
 ## Goal
 
-> Committed to becoming the most beautiful Web3 social portal and relation protocol, allowing social data and portrait value to be distributed to all active individuals in a decentralized protocol.
+> Committed to becoming the most powerful & beautiful Web3 social portal and relation protocol, allowing social data and portrait value to be distributed to all active individuals in a decentralized protocol.
 
 > Nextme mainly serves creators and brand owners. With personalized and exquisite templates, one-stop delivery, and instant sharing of your Web3 social portal, you can connect, create, interact, trade, and make profits in the community square, so that social data rights belong to all holders, so that platform traffic advertising and portrait revenue can be fed back to all active individuals through decentralized agreement settlement.
 
