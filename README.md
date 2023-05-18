@@ -4,13 +4,9 @@
 
 ## Origin
 
-A group of web2+3 creators
+- Nextme is committed to bringing data and social to life，building a rich Web3 social traffic and distribution portal, aiming to become a social portal and user-generated content (UGC) dating community driven by decentralized relationship protocols.
 
-A group of web2+3 developers and builders
-
-A Decentralized Community Next Labs
-
-Let's create our next generation web2+3 social homepage together
+- Nextme mainly serves creators and brand owners. With personalized and exquisite templates, one-stop delivery, and instant sharing of your Web3 social portal, you can connect, create, interact, trade, and make profits in the community square, so that social data rights belong to all holders, so that platform traffic advertising and portrait revenue can be fed back to all active individuals through decentralized agreement settlement.
 
 ## Vision
 
@@ -18,7 +14,7 @@ Let's create our next generation web2+3 social homepage together
 
 ## Values
 
-> Committed to becoming the most beautiful Web3 social portal and UGC square, allowing social data and portrait value to be distributed to all active individuals in a decentralized protocol.
+> Committed to becoming the most beautiful Web3 social portal and relation protocol, allowing social data and portrait value to be distributed to all active individuals in a decentralized protocol.
 
 <p>We mainly help web2+3 creators, web3 builders and communities, web3 investors/developers/organizations and other user groups to open up and aggregate account IDs under many App application systems, and integrate on-chain and off-chain data into Personalized application in a centralized way.</p>
 <p>Based on a set of Nextme DID to connect users' web2+3 social IDs, works, assets, contracts, etc. select and personalize their homepage from several vertical career templates, not limited to social media business cards, NFT/DAO/Club and other tokens Mint/AirDrop/Poap aggregated business page, community community Member Pass center, etc.</p>
