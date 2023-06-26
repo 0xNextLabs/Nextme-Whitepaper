@@ -8,7 +8,7 @@
 
 ## Mission
 
-> The most Powerful & Beautiful Web3 Social Portal and Relation Protocol.
+> The most Rich & Beautiful Web3 Social Portal and Relation Protocol.
 
 ## Goal
 
