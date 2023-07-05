@@ -52,7 +52,7 @@
 
 ### Full Version
 
-> Svg Format
+> SVG Format
 
 <ul class='flex sm:gap-x-8'>
   <li>
@@ -86,7 +86,47 @@
   </li>
 </ul>
 
-<section class='pt-16 pb-6 text-center'>
+> SVG Plain Format
+
+<ul class='flex sm:gap-x-8'>
+  <li>
+    <h6 class='pb-4'>Light Mode
+      <a class='ml-1' href='assets/images/logo/logo_plain.svg' download='Nextme_Logo_Pro_Light'>download</a>
+    </h6>
+    <img class='rounded-md bg-black' src='assets/images/logo/logo_plain.svg' />
+  </li>
+  <li>
+    <h6 class='pb-4'>Dark Mode
+      <a class='ml-1' href='assets/images/logo/logo_plain_dark.svg' download='Nextme_Logo_Pro_Dark'>download</a>
+    </h6>
+    <img class='rounded-md bg-white' src='assets/images/logo/logo_plain_dark.svg' />
+  </li>
+</ul>
+
+!> Used Scenes
+
+<ul class='flex gap-12'>
+  <li>
+    <h6 class='py-4'>Light Mode</h6>
+    <div class='mx-auto rounded-full bg-violet-600 w-16 h-16 flex justify-center items-center hover:scale-110 transition'>
+      <img class='p-2' src='assets/images/logo/logo_plain.svg' />
+    </div>
+  </li>
+  <li>
+    <h6 class='py-4'>Dark Mode</h6>
+    <div class='mx-auto rounded-full bg-gray-200 w-16 h-16 flex justify-center items-center hover:scale-110 transition'>
+      <img class='p-2' src='assets/images/logo/logo_plain_dark.svg' />
+    </div>
+  </li>
+  <li>
+    <h6 class='py-4'>Colorful Mode</h6>
+    <div class='mx-auto rounded-full bg-black w-16 h-16 flex justify-center items-center hover:scale-110 transition'>
+      <img class='p-2' src='assets/images/logo/logo.png' />
+    </div>
+  </li>
+</ul>
+
+<section class='pt-24 pb-6 text-center'>
 <a class='bg-black p-4 px-8 rounded-full' href='assets/images/logo.zip' download='Nextme_Logo'>Download Logo Package</a>
 </section>
 
