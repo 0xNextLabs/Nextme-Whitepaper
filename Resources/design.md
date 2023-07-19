@@ -6,7 +6,7 @@
 
 # Solgan
 
-<strong>The most Rich & Beautiful Web3 Social Portal and RSS Relation Protocol.</strong>
+<strong>The most Rich & Beautiful Social Portal and RSS Relation Protocol.</strong>
 
 # Branding Guidelines
 
