@@ -9,7 +9,7 @@
 <p>Symbol: To be announced</p>
 <p>Contract address: To be announced</p>
 <p>Chain: Ethereum chain (priority)、Polygon Chain, Binance Chain, etc.</p>
-<p>Total supply: 100 million</p>
+<p>Total supply: 1 billion</p>
 <p>Private sale price: To be announced</p>
 
 <h4>Distribution Portrait</h4>
