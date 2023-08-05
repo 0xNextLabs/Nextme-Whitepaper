@@ -8,7 +8,7 @@
 
 ## Mission
 
-> The most Rich & Beautiful Social Portal and RSS Relation Protocol.
+> Internet of Everything Web3 Social Network.
 
 ## Goal
 
