@@ -2,7 +2,7 @@
   <a href='//nextme.one'><img src="assets/images/logo/logo_pro.svg" /></a>
 </h2>
 
-<h3 class='text-3xl py-2'>Internet of Everything Web3 Social Network</h3>
+<h3 class='text-3xl py-2'>The Social Economy Network Connecting Everything</h3>
 <h4 class='pb-12'>Not only Link in Bio, LandingPage, Profile, Blog, Website etc.</h4>
 
 [Get Started](README.md)

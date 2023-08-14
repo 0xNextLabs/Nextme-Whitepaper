@@ -8,7 +8,7 @@
 
 ## Mission
 
-> Internet of Everything Web3 Social Network.
+> The Social Economy Network Connecting Everything.
 
 ## Goal
 

@@ -6,7 +6,7 @@
 
 # Solgan
 
-<strong>Internet of Everything Web3 Social Network.</strong>
+<strong>The Social Economy Network Connecting Everything.</strong>
 
 # Branding Guidelines
 
