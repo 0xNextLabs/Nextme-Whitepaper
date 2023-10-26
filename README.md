@@ -12,7 +12,7 @@ Focus 【Creator Economy】【Social Graph Application】【Traffic Distribution
 
 > The Social Economy Network Connecting Everything.
 
-<ul class="flex justify-center gap-5 pt-12">
+<ul class="flex gap-5 sm:gap-8 !pl-0 pt-10">
   <li
     v-for="(row,index) in milestone.headData"
     class="animate__animated animate__slideInDown cursor-pointer"
