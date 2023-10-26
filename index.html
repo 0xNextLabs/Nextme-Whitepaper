@@ -47,6 +47,10 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Courgette&family=Poppins&family=Righteous&family=Satisfy&family=Chillax&family=Lato&display=swap"
     />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
     <link rel="stylesheet" type="text/css" href="css/index.css" />
   </head>
   <body>
@@ -80,6 +84,78 @@
           seprator: "",
           prefix: "Nextme Whitepaper ",
         },
+        vueGlobalOptions: {
+          data() {
+            return {
+              cdn: "https://cdn.nextme.one",
+              milestone: {
+                headData: [
+                  "brown",
+                  "green",
+                  "blue",
+                  "grey",
+                  "purple",
+                  "pink",
+                  "red",
+                ],
+                cardsData: [
+                  {
+                    title: "Nextme DIDs Network",
+                    color: "#7D7EE8",
+                    image: "home/ecosystem/card_pink.jpg",
+                    label: "Running",
+                    released: true,
+                    time: "2022.12",
+                    desc: {
+                      data: "Based on the W3C DID specification, we released the innovative DIDs Network, which currently has hundreds of thousands of encrypted users, supports 1,900+ social media and publishers aggregation, and provides Infra services such as privacy security, permanent storage, and data ownership.",
+                    },
+                    url: "//github.com/w3c/did-spec-registries/blob/main/methods/next.json",
+                  },
+                  {
+                    title: "Nextme OnePage",
+                    color: "#3DC47E",
+                    label: "Growing",
+                    released: true,
+                    time: "2023.4",
+                    desc: {
+                      data: "Provide creators and brands with rich and beautiful data visualization (Portals such as LandingPage, Link in Bio, etc.) \nNot limited to rich media such as Videos, Photos,Music, Podcasts,  Streams, etc. \nAll the data you want to integrate and display.",
+                    },
+                    url: "//nextme.one",
+                  },
+                  {
+                    title: "Nextme Pay",
+                    color: "#4592FF",
+                    image: "home/ecosystem/card_blue.jpg",
+                    time: "2023.12",
+                    label: "Testing",
+                    desc: {
+                      data: "Dedicated to building payment middleware that makes socializing and living easier.\nHelp creators and brands connect with fans, and distribute community benefits.\nBuy or Sell commodities, derivatives(more) and Send or Receive money on your favorite Social OnePage.",
+                    },
+                  },
+                  {
+                    title: "Nextme Connect",
+                    color: "#6D75E7",
+                    time: "2024.Q1",
+                    label: "Developing",
+                    desc: {
+                      data: "Onboard all of your users with a beautiful Connect modal, flexible sign-in options for web2 & web3, and powerful hooks for full customizability.\nNo wallet? No problem\nOnboard users with just an email, phone, social account, or passkeys — and create wallets for them.",
+                    },
+                  },
+                  {
+                    title: "Nextme Feeds",
+                    color: "#FF4F52",
+                    image: "home/ecosystem/card_red.jpg",
+                    time: "2024.Q2",
+                    label: "Paving",
+                    desc: {
+                      data: "From Identity to Profiles (Portals) is just a private domain of millions of pieces of data, we will open up this human-to-human connectivity relationship at the right time, with interesting interactions, rich and beautifully crafted content, and subverting the share of advertising revenue.",
+                    },
+                  },
+                ],
+              },
+            };
+          },
+        },
       };
     </script>
     <!-- Google tag (gtag.js) -->
@@ -102,5 +178,6 @@
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/@sujaykumarh/docsify-plugin-title@1.x/dist/plugin.min.js"></script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
   </body>
 </html>

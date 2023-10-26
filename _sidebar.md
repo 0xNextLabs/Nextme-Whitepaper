@@ -2,21 +2,17 @@
 
   - [Origin](README.md?id=Origin)
   - [Mission](README.md?id=Mission)
-  - [Goal](README.md?id=Goal)
+  - [Landing](README.md?id=Landing)
 
-- Milestone
+- Ecosystem
 
-  - [Stage](Milestone.md)
+  - [Milestone](Ecosystem/Milestone.md)
+  - [Names](Ecosystem/NameService.md)
 
 - Tokenomics
 
   - [Live](Tokenomics/Live.md)
   - [Core](Tokenomics/Core.md)
-
-- Ecosystem
-
-  - [Names](Ecosystem/NameService.md)
-  - [Governance](Ecosystem/Governance.md)
 
 - DID
 

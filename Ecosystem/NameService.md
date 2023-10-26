@@ -1,8 +1,8 @@
-# Nextme Name Service
+# Nextme's Name Service
 
 > Nextme will launch a domain name service at a certain point in time when the mainnet goes live, paving the way and building infrastructure services for the Portal and the Relation Protocol.
 
-<img class='rounded-lg' src='https://ph-files.imgix.net/8cbe4b58-2762-4f78-bbc4-524f26f3d893.jpeg' />
+<img class='rounded-lg' src='https://cdn.nextme.one/user/37327eb3-b8b8-48d6-91a7-68fd85e1bd25/1679635345790.png' />
 
 !> The following are some of the brand or celebrity logos we reserved during the public beta, which are still being updated dynamically before the mainnet contract is deployed. Illegal pre-registration is not recommended during the test to avoid related legal disputes.
 
