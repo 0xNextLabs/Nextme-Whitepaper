@@ -1,8 +1,8 @@
-# Token Core
+# Nextme's Token Core
 
 !> Definition
 
-<h4>Next Token</h4>
+<h4>Nextme Token</h4>
 
 > Governance token launched for product and community development
 

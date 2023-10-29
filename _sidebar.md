@@ -16,7 +16,7 @@
 
 - DID
 
-  - [Next DID](DID/NextDID.md)
+  - [Nextme DID](DID/NextDID.md)
 
 - Community
 

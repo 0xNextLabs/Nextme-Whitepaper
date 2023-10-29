@@ -1,6 +1,6 @@
-# Brands
+# Nextme's Brands
 
-<strong>Nextme</strong>
+## Nextme
 
 <p>"Nextme" is one word and spelled with a capital N.</p>
 

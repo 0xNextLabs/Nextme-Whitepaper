@@ -1,9 +1,13 @@
-# Next DID
+# Nextme DIDs Network
+
 ## DID Definition
-Next DID is a Decentralized Identity created by Nextme to the user, the format is as follows:
+
+Nextme DID is a Decentralized Identity created by Nextme to the user, the format is as follows:
+
 > `did:next:<method-specific-id>`
 
 for example:
+
 > `did:next:ceNobbK6Me9F5zwyE3MKY88QZLwceNobbK6Me9F5zwyE3MKY88QZLw`
 
 the key value will be hashed in to a fixed 64-bit did:
@@ -13,6 +17,7 @@ the key value will be hashed in to a fixed 64-bit did:
 `<key>` = user Id, passed from user
 
 Its corresponding response json structure is as follows:
+
 ```
 {
   "@context": "https://nextme.one/did/v1/create",
@@ -37,15 +42,20 @@ Its corresponding response json structure is as follows:
 ```
 
 #### DID Creation
+
 ##### Process
+
 1. Generate two pairs of public and private keys as master and backup.
 2. Generate user's Json data
 3. Implement sha256 to Json
 4. Implement the above result again with ripemd160
 5. Implement base58 on the above result
 6. Add `did:next:` before the above result as the final Next DID
+
 ##### Request
+
 Mock version:
+
 ```
 {
     "did": "did:next:3CzQLF3qfFVQ1CjGVzVRZaFXrjAd",
@@ -83,12 +93,18 @@ Mock version:
     "timestamp": 253146316
 }
 ```
+
 #### DID Read
+
 ##### Process
+
 For example, your did is: `did:next:cxxxxxxxxxxxxxx`, run this command
+
 > curl https://nextme.one/did/v1/read/did:next:cxxxxxxxxxxxxxx
-And you'll get the result as below
+> And you'll get the result as below
+
 ##### Result
+
 ```
 {
   "code": 0,
@@ -124,10 +140,15 @@ And you'll get the result as below
   }
 }
 ```
+
 #### DID Update
+
 It is worth mentioning that old versions of DID document are still stored on the chain due to the natures of the data structure used by blockchain. So this operation is not updating the DID document in place but putting a new version over the existing one.
+
 #### DID Restore
+
 ##### Request
+
 ```
 {
   "did": "did:next:cxxxxxxxxxxxxxx",
@@ -148,13 +169,14 @@ It is worth mentioning that old versions of DID document are still stored on the
 1. The key value will be hashed into a fixed 64-bit did, and irreversible, the original key value is difficult to crack.
 2. The ciphertext encrypted by the public key will be stored in a decentralized database, and only the private key in the user's hand can decrypt the did plaintext information.
 3. User privacy information will be fuzzed for better protection User privacy is not leaked.
-The private key that can prove the attribution of DID only exists on the user's device and will not be known to any third party.
+   The private key that can prove the attribution of DID only exists on the user's device and will not be known to any third party.
 
 ## Uses Cases
 
 ## APIs
-createDID 
-queryDID 
-updateDID 
+
+createDID
+queryDID
+updateDID
 deleteDID
 restoreDID

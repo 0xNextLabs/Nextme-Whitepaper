@@ -1,4 +1,6 @@
-# Nextme's Name Service
+# Names
+
+## Nextme's Name Service
 
 > Nextme will launch a domain name service at a certain point in time when the mainnet goes live, paving the way and building infrastructure services for the Portal and the Relation Protocol.
 

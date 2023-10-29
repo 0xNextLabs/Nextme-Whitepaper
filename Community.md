@@ -1,28 +1,36 @@
-# Community
+# Nextme's Community
 
 ## Media
 
 > more information to be released
 
+Docs
+
+[docs.nextme.one](//docs.nextme.one)
+
 Twitter
 
-[https://twitter.com/NextmeOne](//twitter.com/NextmeOne)
+[twitter.com/NextmeOne](//twitter.com/NextmeOne)
 
 Instagram
 
-[https://instagram.com/NextmeOne](//instagram.com/NextmeOne)
+[instagram.com/NextmeOne](//instagram.com/NextmeOne)
 
 Discord
 
-[https://discord.gg/mxTew3aerd](//discord.gg/mxTew3aerd)
+[discord.gg/mxTew3aerd](//discord.gg/mxTew3aerd)
 
 YouTube
 
-[https://youtube.com/@NextmeOne](//youtube.com/@NextmeOne)
+[youtube.com/@NextmeOne](//youtube.com/@NextmeOne)
 
-Product Hunt
+GitHub
 
-[https://producthunt.com/posts/nextme-2](//producthunt.com/posts/nextme-2)
+[github.com/0xNextLabs](//github.com/0xNextLabs)
+
+Lens
+
+[hey.xyz/u/nextme](//hey.xyz/u/nextme)
 
 ## Contact
 
@@ -30,15 +38,15 @@ Product Hunt
 
 Official Website
 
-[https://nextme.one](//nextme.one)
-
-Docs
-
-[https://docs.nextme.one](//docs.nextme.one)
+[nextme.one](//nextme.one)
 
 Official Portal
 
-[https://nextme.one/nextme.eth](//nextme.one/nextme.eth)
+[nextme.one/nextme.eth](//nextme.one/nextme.eth)
+
+Submit to Gallery
+
+[nextme.one/explore](//nextme.one/explore)
 
 BD & Marketing
 

@@ -1,8 +1,8 @@
-# Nextme Guidebook
+# Nextme's Guidebook
 
-<header>
-  <img class='rounded-lg max-sm:hidden' src='assets/images/banner/guidebook_pc.jpg' />
-  <img class='rounded-lg md:hidden' src='assets/images/banner/guidebook_mobile.jpg' />
+<header class='py-4 pt-8'>
+  <img class='rounded-lg max-sm:hidden' src='assets/images/banner/guidebook_pc.png' />
+  <img class='rounded-lg md:hidden' src='assets/images/banner/guidebook_mobile.png' />
 </header>
 
 !> 🪜 VPN Service
