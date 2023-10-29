@@ -82,12 +82,15 @@
         },
         customPageTitle: {
           seprator: "",
-          prefix: "Nextme Whitepaper ",
+          prefix: "Nextme Whitepaper",
         },
         vueGlobalOptions: {
           data() {
             return {
               cdn: "https://cdn.nextme.one",
+              ecosystem: {
+                names: JSON.parse(localStorage.getItem("nextme_names")),
+              },
               milestone: {
                 headData: [
                   "brown",
@@ -156,6 +159,28 @@
             };
           },
         },
+        routes: {
+          "/Ecosystem/NameService": function (route, matched, next) {
+            fetch("https://oa.nextme.one/api/domain/page?pageSize=2000", {
+              headers: {
+                Authorization: "5b7f086bb6733aaeb4bb71b3c41f125a",
+              },
+            })
+              .then((response) => response.json())
+              .then((response) => {
+                if (response?.ok) {
+                  localStorage.setItem(
+                    "nextme_names",
+                    JSON.stringify(response?.data?.records)
+                  );
+                }
+                next();
+              })
+              .catch((err) => {
+                console.log(err);
+              });
+          },
+        },
       };
     </script>
     <!-- Google tag (gtag.js) -->
@@ -179,5 +204,6 @@
     <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/@sujaykumarh/docsify-plugin-title@1.x/dist/plugin.min.js"></script>
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/js-md5@0.8.3/src/md5.min.js"></script>
   </body>
 </html>
