@@ -6,7 +6,7 @@
 
 > Nextme is committed to building a social economic network that connects creators, brands and users.
 
-Focus 【Creator Economy】【Social Graph Application】【Traffic Distribution Agreement】
+Focus 【Creator Economy】【Pay & Distribution of Benefits】【Social Data & Privacy】
 
 ## Mission
 

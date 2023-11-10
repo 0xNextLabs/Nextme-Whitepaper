@@ -3,6 +3,6 @@
 </h2>
 
 <h3 class='text-3xl py-2'>The Social Economy Network Connecting Everything</h3>
-<h4 class='pb-12'>Connecting creators, brands and users with transformative socio-economic network.</h4>
+<h4 class='pb-12'>Connecting creators, brands and users with transformative social economy network.</h4>
 
 [Get Started](README.md)
