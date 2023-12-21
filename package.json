@@ -11,7 +11,7 @@
   "private": true,
   "scripts": {
     "dev:vercel": "vercel env pull .env.local",
-    "start": "docsify serve"
+    "dev": "docsify serve"
   },
   "dependencies": {},
   "devDependencies": {
