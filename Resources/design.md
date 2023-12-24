@@ -6,7 +6,7 @@
 
 # Solgan
 
-<strong>The Social Economy Network Connecting Everything.</strong>
+<strong>Social Economy Network Connecting Everything.</strong>
 
 # Branding Guidelines
 

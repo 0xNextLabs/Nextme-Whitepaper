@@ -10,7 +10,7 @@ Focus 【Creator Economy】【Pay & Distribution of Benefits】【Social Data & 
 
 ## Mission
 
-> The Social Economy Network Connecting Everything.
+> Social Economy Network Connecting Everything.
 
 <ul class="flex gap-5 sm:gap-8 !pl-0 pt-10">
   <li
