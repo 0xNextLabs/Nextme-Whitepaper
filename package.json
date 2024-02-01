@@ -13,7 +13,9 @@
     "dev:vercel": "vercel env pull .env.local",
     "dev": "docsify serve"
   },
-  "dependencies": {},
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  },
   "devDependencies": {
     "docsify": "^4.13.0"
   }

@@ -26,7 +26,7 @@
           <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-gray-50 opacity-75"></span>
           <span class="relative inline-flex rounded-full h-3 w-3 bg-gray-100"></span>
         </header>
-        <h3 class='!text-white'>{{row?.title}}</h3>
+        <h3 class='!text-white'>{{ `${config.title} ${row?.title}`}}</h3>
         <span>{{row?.time}}</span>
         <p class='px-4 leading-4'>{{row?.desc?.data}}</p>
         <a :href="row?.url" target='_blank' class='absolute bottom-4'>

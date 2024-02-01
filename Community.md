@@ -48,6 +48,10 @@ Submit to Gallery
 
 [nextme.one/explore](//nextme.one/explore)
 
+Discover nearby Meetups
+
+[nextme.one/meetups](//nextme.one/meetups)
+
 BD & Marketing
 
 [contact@nextme.one](mailto:contact@nextme.one)

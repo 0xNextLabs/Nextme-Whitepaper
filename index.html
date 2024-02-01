@@ -87,6 +87,9 @@
         vueGlobalOptions: {
           data() {
             return {
+              config: {
+                title: "Nextme",
+              },
               cdn: "https://cdn.nextme.one",
               ecosystem: {
                 names: JSON.parse(localStorage.getItem("nextme_names")),
@@ -110,12 +113,12 @@
                     released: true,
                     time: "2022.12",
                     desc: {
-                      data: "Based on the W3C DID specification, we released the innovative DIDs Network, which currently has 135,000+ users, supports 1,900+ social media and publishers aggregation, and provides Infra services such as privacy security, permanent storage, and data ownership.",
+                      data: "Based on the W3C DID specification, we released the innovative DIDs Network, which currently has 142,000+ users, supports 1,900+ social media and publishers aggregation, and provides Infra services such as privacy security, permanent storage, and data ownership.",
                     },
                     url: "https://github.com/w3c/did-spec-registries/blob/main/methods/next.json",
                   },
                   {
-                    title: "OnePage",
+                    title: "Bio",
                     color: "#3DC47E",
                     label: "Growing",
                     released: true,
@@ -123,17 +126,19 @@
                     desc: {
                       data: "Provide creators and brands with rich and beautiful data visualizations (Portals such as a LandingPage, Link in Bio, etc.) Not just limited to rich media such as Videos, Photos, Music, Podcasts, Streams and more. \nAll the data you want to integrate and display for your fans.",
                     },
-                    url: "https://nextme.one/gateway",
+                    url: "/explore",
                   },
                   {
                     title: "Pay",
                     color: "#4592FF",
                     image: "home/ecosystem/card_blue.jpg",
                     label: "Developing",
+                    released: true,
                     time: "2024.1",
                     desc: {
-                      data: "Dedicated to building payment middleware that makes socializing and living easier. Help creators and brands connect with fans and distribute community benefits.\nBuy or Sell commodities, derivatives and Send or Receive money on your favorite Social OnePage.",
+                      data: "Dedicated to building payment middleware that makes socializing and living easier. Help creators and brands connect with fans and distribute community benefits.\nBuy or Sell commodities, derivatives and Send or Receive money on your favorite Social Bio.",
                     },
+                    url: "/pay",
                   },
                   {
                     title: "Feeds",
@@ -144,10 +149,10 @@
                     desc: {
                       data: "From Identity to Profiles (Portals) is a private domain with millions of pieces of data to open up for human-to-human connections, through interactions, content such as videos and the opportunity to receive a share of the advertising revenue.\nGallery（transitional state version） => Feeds.",
                     },
-                    url: "https://nextme.one/explore",
+                    url: "/studio",
                   },
                   {
-                    title: "Connect",
+                    title: "Open",
                     color: "#FF4F52",
                     image: "home/ecosystem/card_red.jpg",
                     time: "2024.Q2",
@@ -171,9 +176,23 @@
               .then((response) => response.json())
               .then((response) => {
                 if (response?.ok) {
+                  const listSort = (a, b) => {
+                    let aStr = a.path.toUpperCase(); // ignore upper and lowercase
+                    var bStr = b.path.toUpperCase(); // ignore upper and lowercase
+                    if (aStr < bStr) {
+                      return -1;
+                    }
+                    if (aStr > bStr) {
+                      return 1;
+                    }
+                    // names must be equal
+                    return 0;
+                  };
                   localStorage.setItem(
                     "nextme_names",
-                    JSON.stringify(response?.data?.records)
+                    JSON.stringify(
+                      response?.data?.records.sort((a, b) => listSort(a, b))
+                    )
                   );
                 }
                 next();
