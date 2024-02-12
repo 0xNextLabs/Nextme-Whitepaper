@@ -8,9 +8,9 @@
 
 Focus 【Creator Economy】【Pay & Distribution of Benefits】【Social Data & Privacy】
 
-## Mission
+## Slogan
 
-> Social Economy Network Connecting Everything.
+> Discover Interesting People and Stories.
 
 <ul class="flex gap-5 sm:gap-8 !pl-0 pt-10">
   <li
@@ -31,11 +31,15 @@ Focus 【Creator Economy】【Pay & Distribution of Benefits】【Social Data & 
   </li>
 </ul>
 
-## Landing
+## Mission
 
-<p>We mainly serves creators (bloggers/designers/photographers, etc.) and brands (small and medium-sized enterprises/merchants/IP, etc.) It not only has a rich, beautiful and powerful social portal homepage/Landing Page/Link in Bio, etc. but also can The community square can freely share updates, works, courses, products, derivatives, etc.</p>
-<p>Not limited to communication/interaction/creation/transaction, etc. The data is also more securely and permanently stored on decentralized blockchain nodes, realizing one-stop branding Display and realization of influence and value.<p>
-<p>Social Feeds supports and aggregates 1,900+ third-party services (chat/meeting/e-commerce/transactions, etc.) and feeds back the data revenue brought by social relationship feeds, advertising services, commodity transactions, etc. to active users in the form of smart contract token sharing. Build a decentralized social relationship, content aggregation, and traffic distribution center.</p>
+<p>Nextme is a cross-chain and cross-platform decentralized social economy network.</p>
+
+<p>It is a public social network similar in design to Instagram and Twitter, but encrypted.</p>
+
+<p>Everyone own their accounts and relationships、data ownership and earnings rights, share and take anywhere.</p>
+
+<p>Creators, brands and fans, and communities can better share streams, discover interesting people, stories and meetups, and earn creative and interactive revenue in encrypted protocol.</p>
 
 !> Web2+3 Creator
 

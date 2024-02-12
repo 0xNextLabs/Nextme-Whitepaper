@@ -22,13 +22,13 @@
 <footer
   class="pt-20 max-sm:pb-8 text-center safe-area-inset-bottom text-sm text-neutral-700"
 >
-  <label>Copyright 2023</label>
+  <label>Copyright 2022 - {{ date.year }} </label>
   <a
     href="https://nextme.one"
     target="_blank"
     rel="noopener noreferrer nofollow"
     class="mx-0.5 bg-clip-text !text-transparent bg-gradient-to-r from-sky-500 to-fuchsia-500"
-    >Next Labs
+    >@Next Labs
   </a>
   <label class="-ml-0.5">All rights reserved.</label>
 </footer>
