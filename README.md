@@ -37,7 +37,7 @@ Focus 【Creator Economy】【Pay & Distribution of Benefits】【Social Data & 
 
 <p>It is a public social network similar in design to Instagram and Twitter, but encrypted.</p>
 
-<p>Everyone own their accounts and relationships、data ownership and earnings rights, which can be shared and taken anywhere.</p>
+<p>Everyone owns their accounts and relationships、data ownership and earnings rights, which can be shared and taken anywhere.</p>
 </p>
 
 <p>Creators, brands and fans, communities can better share streams, discover interesting people, stories and meetups, and earn income through creation and interaction within cryptographic protocols.</p>
