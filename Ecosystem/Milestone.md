@@ -22,7 +22,7 @@
       <section
         class='relative h-full text-base sm:text-sm text-white flex flex-col items-center'
       >
-        <header v-if='row?.released' class="absolute right-2.5 top-2.5 flex h-3 w-3">
+        <header v-if='row?.released && index !== 3' class="absolute right-2.5 top-2.5 flex h-3 w-3">
           <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-gray-50 opacity-75"></span>
           <span class="relative inline-flex rounded-full h-3 w-3 bg-gray-100"></span>
         </header>
