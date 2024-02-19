@@ -1,18 +1,18 @@
 # Nextme's Token Core
 
-!> Definition
-
-<h4>Nextme Token</h4>
+<h3>Values</h3>
 
 > Governance token launched for product and community development
 
+!> Currencies
+
 <p>Symbol: To be announced</p>
 <p>Contract address: To be announced</p>
-<p>Chain: Ethereum chain (priority)、Polygon Chain, Binance Chain, etc.</p>
-<p>Total supply: 10 billion</p>
+<p>Chain: To be announced</p>
+<p>Total supply: To be announced</p>
 <p>Private sale price: To be announced</p>
 
-<h4>Distribution Portrait</h4>
+<h3>Distribution Portrait</h3>
 
 > creators and fans, project parties, developers, market makers, primary and secondary investors, early investors and institutions, teams and consultants, etc.
 

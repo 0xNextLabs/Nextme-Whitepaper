@@ -1,23 +1,39 @@
 # Nextme's Token Live
 
-## Why Token
+## Nexts
 
-<p>First of all, we are a decentralized web3 organization. Creation members are all from the world's top Internet companies, and many of them are also well-known creators and encryption artists in the community.</p>
-<p>While providing rich and open dapp for creators, brands and communities, developers and organizations, we also hope to help more users transition from web2 to web3, aggregate and accumulate more individual data in the decentralized world, first of all We are about to have our own web3 identity and social system. Nextme DIDs Network is doing such basic things here.</p>
-<p>The upper Nextme Bio personalizes your portal. In order to prevent too much data and privacy from being leaked, exploited, monopolized and catastrophically destroyed by web2 companies, we want to use the web2+3 connection and flow method to learn from web2's high-viscosity social applications and web3 metaverse virtual freedom.</p>
-<p>Some advantages, mining and mining the social chain spectrum gold mine, build Nextme Token governance and liquidity system around the individual or the brand itself, for the rights consumption and incentives of most users in the application.</p>
+<header class='flex justify-center -my-12'>
+<img class='w-80 h-80' src='https://cdnl.iconscout.com/lottie/premium/thumb/gold-coin-5496282-4581100.gif' />
+</header>
 
-## How Token
+### What are Nexts?
 
-<p>Regarding the application scenarios of Nextme Token, we will first disclose some plans:</p>
+<h5 class='font-semibold'>Nexts is a currency for liquid payments in the Nextme Ecosystem and is used to perform onchain actions.</h5>
+<p class='text-neutral-400 !mt-2'>— gifting Nextme invites, minting certain NFTs, rewarding and trading, interest dating, etc — from within the Nextme app.</p>
 
-- Tax deductions for tips and payments;
-- Some incentives and airdrop plans for early seed users in the community;
-- Users can use it to purchase a series of advanced benefits corresponding to products such as NFT Pass cards;
-- Fans can use it to purchase digital vouchers such as NFT or membership cards, tickets issued by artists/brands;
-- Fans are used to exchange derivatives and commodities around the issuer;
-- Users provide liquidity to participate in LP interest sharing;
-- Developers and organizations can use it to pay for API services;
-- More application scenarios to be announced;
+### How do I get Nexts?
 
-<p>Remark: All token income belongs to the team community treasury, which is continuously used for community operation and growth, and is regularly destroyed in a certain proportion，remaining proportion returns to the treasury.</p>
+> Buy and recharge
+
+<p>On Nextme dapp, sidebar menu → Nexts → Buy Nexts</p>
+
+> Earn
+
+<p>1. Some daily (joining the official community, check-ins, games, etc.)</p>
+<p>2. inviting friends, creating and trading derivatives, gifts and rewards, dating friendships, etc.</p>
+
+### How do I use Nexts?
+
+<p>On Nextme dapp, sidebar menu →「 Nexts 」or「 All in Bio 」to see if you have a balance.</p>
+
+If you have Nexts, you can:
+
+<p>1. Discounted membership subscriptions for Advanced, Pro and Enterprise versions (e.g. original price of $9/month can be paid in a combination of partial Nexts + partial currencies)</p>
+<p>2. Gift reward in chat or live streaming, or send a red envelope or a tip</p>
+<p>3. Tickets to events in Dating and Meetups, discounts on membership cards, and more</p>
+<p>4. Mint certain NFTs and onchain tags</p>
+<p>5. Nextme Pay entitlements and lifestyle payment credits (e.g., a paid course issued by one of Nextme's creators, coffee or merchandise sold by one of Nextme's brand-side merchants) Nexts are eligible to participate in the combined payment of an order.</p>
+
+!> More consumption scenarios updated with product version iterations.
+
+<strong>The amount of warps needed for a given onchain action will vary based on network fees.</strong>
