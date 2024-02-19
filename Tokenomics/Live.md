@@ -36,4 +36,50 @@ If you have Nexts, you can:
 
 !> More consumption scenarios updated with product version iterations.
 
-<strong>The amount of warps needed for a given onchain action will vary based on network fees.</strong>
+<strong>The amount of Nexts needed for a given onchain action will vary based on network fees.</strong>
+
+<h2 class='pb-6 border-b border-dashed'>More questions</h2>
+
+### What is your goal with Nexts?
+
+All-in-one for onchain actions in the Nextme Ecosystem, easier and more efficient.
+
+### Are Nexts onchain?
+
+No, Nexts are centralized and specific to Nextme Ecosystem.
+
+### Why is Nexts not currently onchain?
+
+To make product interactions silkier and social scenarios faster and friendlier, but to achieve the same results and value.
+
+### Nexts will be onchain and exchange?
+
+Yes, but the Token symbols may change after the listing, but an anchoring formula will be made public for liquid exchange.
+
+### Can I gift Nexts to someone else?
+
+Yes. You can gift up to 1000 Nexts to another person once per day.
+
+### How much do Nexts cost?
+
+Nexts will be made continuously available to Nextme users in unlimited quantities at a fixed price of $0.01. Other transaction processing fees may apply.
+
+### Do Nexts fluctuate in value?
+
+No.
+
+### Can I sell Nexts?
+
+No, only for payment, consumption, reward, transfer, redemption, etc.
+
+### Why is there a limit on gifting Nexts per day?
+
+Just as in our growth and development together, healthy social interactions are the norm.
+
+### Is there a developer API or spec for Nexts?
+
+No.
+
+### The more Nexts you have the better chance of getting a bigger airdrop?
+
+No, our Tokenomics community distribution strategy is comprehensive and will calculate the formula from multiple dimensions such as account health, active data, creative behavior, interactions, transactions and more.
