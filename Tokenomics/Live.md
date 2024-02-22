@@ -3,7 +3,7 @@
 ## Nexts
 
 <header class='flex justify-center -my-12'>
-<img class='w-80 h-80' src='https://cdnl.iconscout.com/lottie/premium/thumb/gold-coin-5496282-4581100.gif' />
+<img class='w-80 h-80' src='https://cdn.nextme.one/status/icon_coin.gif' />
 </header>
 
 ### What are Nexts?
