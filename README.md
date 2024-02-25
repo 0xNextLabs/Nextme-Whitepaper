@@ -35,7 +35,7 @@ Focus 【Creator Economy】【Pay & Distribution of Benefits】【Social Data & 
 
 <p>Nextme is a cross-chain and cross-platform decentralized social economy network.</p>
 
-<p>It is a public social network similar in design to Instagram and Twitter, but encrypted.</p>
+<p>It is a public social network similar in design to Instagram + PayPal, but encrypted.</p>
 
 <p>Everyone owns their accounts and relationships、data ownership and earnings rights, which can be shared and taken anywhere.</p>
 </p>
