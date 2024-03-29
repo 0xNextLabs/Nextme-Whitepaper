@@ -1,8 +1,7 @@
 # Nextme's Guidebook
 
 <header class='py-4 pt-8'>
-  <img class='rounded-lg max-sm:hidden' src='assets/images/banner/guidebook_pc.png' />
-  <img class='rounded-lg md:hidden' src='assets/images/banner/guidebook_mobile.png' />
+  <img class='rounded-lg' src='https://cdn.nextme.one/static/brands/Brand_Banner_03.jpg' />
 </header>
 
 !> 🪜 VPN Service

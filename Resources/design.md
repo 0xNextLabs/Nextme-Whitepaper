@@ -6,7 +6,7 @@
 
 # Slogan
 
-<strong>Discover Interesting People and Stories.</strong>
+<strong>Pay and Earn in Social Layer.</strong>
 
 # Branding Guidelines
 
