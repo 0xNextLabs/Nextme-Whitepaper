@@ -1,8 +1,8 @@
 - Brand
 
-  - [Origin](README.md?id=Origin)
+  - [Origin](README.md?id=Dapp)
   - [Slogan](README.md?id=Slogan)
-  - [Mission](README.md?id=Mission)
+  - [Vision](README.md?id=Vision)
 
 - Ecosystem
 
