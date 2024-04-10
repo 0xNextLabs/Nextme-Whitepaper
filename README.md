@@ -67,7 +67,7 @@ From 1.0 to 2.0 Nextme's next ecological "five pieces of chess” is dedicated t
 This is achieved by a strong focus on user's identity, data, membership and payment systems, feeds and creation revenue distribution, all divided into Nextme DIDs Network, Nextme Bio, Nextme Pay, Nextme Feeds and Nextme Open.
 We are not only Web 3.0, or even Web X.0, mass adoption is the next generation of Onchain.
 
-![Nextme Ecosystem](https://utfs.io/f/6f2db5ea-ab44-47a8-b2e9-1a5a1c74afbf-phutz5.jpg)
+![Nextme Ecosystem](https://cdn.nextme.one/static/website/landingpage_06.jpg)
 
 ### Nextme DIDs Network
 
