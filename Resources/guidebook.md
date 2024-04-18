@@ -12,12 +12,6 @@
   <a target='_blank' href='https://next-labs.larksuite.com/docx/SVwWdarAToUwpXx4ZYyuSHQLsXe'>Nextme Creator's Handbook</a>
 </h6>
 
-> 简体中文版
-
-<h6>
-  <a target='_blank'href='https://next-labs.larksuite.com/docx/Cf0zddSCRo0w0lx0h0buG4z3sfb'>Nextme 创作者手册</a>
-</h6>
-
 <footer
   class="pt-20 max-sm:pb-8 text-center safe-area-inset-bottom text-sm text-neutral-700"
 >
