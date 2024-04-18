@@ -30,6 +30,8 @@ Everyone owns their accounts and relationships、data ownership and earnings rig
 
 Creators, brands and fans, communities can better share streams, discover interesting people, stories and meetups, and earn income through creation and interaction within cryptographic protocols.
 
+<iframe class='w-full h-56 sm:h-96 rounded-lg' src="https://www.youtube.com/embed/bbKvDJWiOv4" frameborder="0" allowfullscreen></iframe>
+
 ![Nextme Wallet](https://utfs.io/f/c6750e28-54e8-419a-8b51-7a205e18082a-e0psdq.png)
 
 ## More
@@ -107,6 +109,8 @@ Gallery（transitional state version） => Feeds.
 > 2024.Q4
 
 Infrastructure for developers and organizations like 「Sign in with Nextme」, 「Nextme Account Tree」,「Nextme Creation Widgets」and many more. Deploying an Onchain app from 0 to 1 takes only 10 minutes and you get a comprehensive account system and content feeds stream.
+
+<iframe class='w-full h-56 sm:h-96 rounded-lg' src="https://www.youtube.com/embed/A7ZRar-lXyM" frameborder="0" allowfullscreen></iframe>
 
 <h2>Now. </h2>
 <strong>Just start your Social.</strong>
