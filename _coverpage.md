@@ -3,6 +3,6 @@
 </h2>
 
 <h3 class='text-3xl py-2'>Pay and Earn in Social Layer</h3>
-<h4 class='pb-12'>For Mass Adoption of Social Payments to Enable the "Last Mile" of Crypto.</h4>
+<h4 class='pb-12'>For Mass Adoption of Social Lifestyle and Payments to Enable the "Last Mile" of Onchain.</h4>
 
 [Get Started](README.md)

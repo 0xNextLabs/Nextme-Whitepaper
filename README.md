@@ -6,7 +6,7 @@
 
 https://nextme.one
 
-![Nextme Portfolio](https://utfs.io/f/6a803468-a14d-49f2-859b-a38399acbc74-o27jh8.jpg)
+![Nextme Portfolio](https://cdn.nextme.one/static/brands/Brand_Banner_03.jpg)
 
 ![Nextme Bio_06](https://cdn.nextme.one/static/website/bio_06.png)
 
@@ -16,7 +16,7 @@ https://nextme.one
 
 ## Vision
 
-**For Mass Adoption of Social Payments to Enable the "Last Mile" of Crypto.**
+**For Mass Adoption of Social Lifestyle and Payments to Enable the "Last Mile" of Onchain.**
 
 ## Values
 
@@ -93,7 +93,9 @@ All the data you want to integrate and display for your fans.
 Dedicated to building payment middleware that makes socializing and living easier. Help creators and brands connect with fans and distribute community benefits.
 Buy or Sell commodities, derivatives and Send or Receive money on your favorite Social Bio.
 
-> For Mass Adoption of Social Payments to Enable the "Last Mile" of Crypto.
+> For Mass Adoption of Social Lifestyle and Payments to Enable the "Last Mile" of Onchain.
+
+![Nextme Pay](https://cdn.nextme.one/home/gateway/social_payments_04.png)
 
 ![Nextme Pay](https://cdn.nextme.one/home/gateway/social_payments_01_v2.png)
 
