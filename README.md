@@ -20,7 +20,7 @@ https://nextme.one
 
 ## Values
 
-Nextme is a cross-chain and cross-platform decentralized social economy network.
+Nextme is a cross-chain（25+ evm chains and Solana chain etc.）and cross-platform decentralized social economy network.
 
 **Share Moments, Social Payments.**
 
@@ -42,7 +42,7 @@ https://nextme.one/nextme.eth
 
 It contains quite full information about our products, values and partners.
 
-Beta network 6 months, 140000+ users worldwide, mainly creators (photographers/bloggers, etc.) and brands (corporations).
+Beta network 6 months, 142000++ users worldwide, mainly creators (photographers/bloggers, etc.) and brands (corporations).
 
 ![Nextme Pay](https://cdn.nextme.one/home/gateway/social_payments_02.png)
 
