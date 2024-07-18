@@ -2,7 +2,7 @@
   <a href='//nextme.one'><img src="assets/images/logo/logo_pro.svg" /></a>
 </h2>
 
-<h3 class='text-3xl py-2'>Pay and Earn in Social Layer</h3>
-<h4 class='pb-12'>For Mass Adoption of Social Lifestyle and Payments to Enable the "Last Mile" of Onchain.</h4>
+<h3 class='text-3xl py-2'>Share and Earn in Social Layer</h3>
+<h4 class='pb-12'>For Mass Adoption of Social Lifestyle to Enable the "Last Mile" of Onchain.</h4>
 
 [Get Started](README.md)

@@ -12,11 +12,11 @@ https://nextme.one
 
 ## Slogan
 
-**Pay and Earn in Social Layer.**
+**Share and Earn in Social Layer.**
 
 ## Vision
 
-**For Mass Adoption of Social Lifestyle and Payments to Enable the "Last Mile" of Onchain.**
+**For Mass Adoption of Social Lifestyle to Enable the "Last Mile" of Onchain.**
 
 ## Values
 
@@ -93,7 +93,7 @@ All the data you want to integrate and display for your fans.
 Dedicated to building payment middleware that makes socializing and living easier. Help creators and brands connect with fans and distribute community benefits.
 Buy or Sell commodities, derivatives and Send or Receive money on your favorite Social Bio.
 
-> For Mass Adoption of Social Lifestyle and Payments to Enable the "Last Mile" of Onchain.
+> For Mass Adoption of Social Lifestyle to Enable the "Last Mile" of Onchain.
 
 ![Nextme Pay](https://cdn.nextme.one/home/gateway/social_payments_04.png)
 

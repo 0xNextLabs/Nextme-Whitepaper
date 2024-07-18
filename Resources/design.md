@@ -6,7 +6,7 @@
 
 # Slogan
 
-<strong>Pay and Earn in Social Layer.</strong>
+<strong>Share and Earn in Social Layer.</strong>
 
 # Branding Guidelines
 
